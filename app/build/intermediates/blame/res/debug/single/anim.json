@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/anim/fade_out_fast.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/anim/fade_out_fast.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/anim/fade_in_fast.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/anim/fade_in_fast.xml"
+    }
+]

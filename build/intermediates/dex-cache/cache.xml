@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="589bc8c8586755a0457a26212fd8f99558427dbc">
+        <dex dex="/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_511634aea24396e718ce40c565e48d534a46327e/classes.dex" />
+    </item>
+    <item
+        jar="/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f098f1a95430e57e4d865239d70aa040e3860df4">
+        <dex dex="/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_65418affdca3c54f3b98704e2efa5b98d5b5fa5f/classes.dex" />
+    </item>
+
+</items>

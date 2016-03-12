@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_pressed_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_selected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_home_voice_search_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_resize_handle_top.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_resize_handle_top.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_pressed_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apps_customize_bg.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/apps_customize_bg.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_appwidget_error.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/bg_appwidget_error.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hotseat_track_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/overscroll_glow_right.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/overscroll_glow_right.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_info_active_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_info_active_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_resize_handle_bottom.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_resize_handle_bottom.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_pressed_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/focused_bg.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/focused_bg.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_resize_handle_left.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_resize_handle_left.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/portal_container_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/portal_container_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/grid_selected.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/grid_selected.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/portal_ring_outer_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_cling1.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/bg_cling1.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/qti_default_wallpaper.jpg",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/qti_default_wallpaper.jpg"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_trashcan_active_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_trashcan_active_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/page_hover_left_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/page_hover_left_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_allapps.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_allapps.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hotseat_scrubber_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_cling3.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/bg_cling3.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_info_normal_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_info_normal_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cling.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/cling.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/page_hover_right_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/page_hover_right_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homescreen_blue_normal_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/homescreen_blue_normal_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_unselected_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_resize_frame_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_resize_frame_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/search_frame.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/search_frame.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_cling4.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/bg_cling4.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_home_all_apps_holo_dark.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_home_all_apps_holo_dark.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/divider_launcher_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_allapps_pressed.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_cling_pressed.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_home_search_normal_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_home_search_normal_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/portal_ring_inner_nolip_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/portal_ring_inner_nolip_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_cling2.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/bg_cling2.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/portal_ring_rest.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/portal_ring_rest.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_cling_normal.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hand.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/hand.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_clear_normal_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_clear_normal_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_resize_handle_right.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_resize_handle_right.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wallpaper_picker_preview.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/wallpaper_picker_preview.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_preview_tile.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_preview_tile.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/widget_container_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/widget_container_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_clear_active_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_clear_active_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/grid_pressed.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/grid_pressed.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_market_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_market_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected_pressed_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/workspace_bg.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/overscroll_glow_left.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/overscroll_glow_left.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homescreen_blue_strong_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/homescreen_blue_strong_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/portal_ring_inner_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/flying_icon_bg_pressed.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/flying_icon_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/grid_focused.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/grid_focused.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_trashcan_normal_holo.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/ic_launcher_trashcan_normal_holo.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_press.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xhdpi/home_press.9.png"
+    }
+]

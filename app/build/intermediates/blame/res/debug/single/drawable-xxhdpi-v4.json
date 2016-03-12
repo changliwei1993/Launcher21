@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_focused_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/hotseat_scrubber_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_pressed_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_pressed_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_holo.9.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-xxhdpi/tab_selected_holo.9.png"
+    }
+]

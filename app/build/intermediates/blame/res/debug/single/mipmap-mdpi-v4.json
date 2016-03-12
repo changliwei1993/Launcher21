@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_wallpaper.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/mipmap-mdpi/ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_application.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/mipmap-mdpi/ic_launcher_application.png"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_home.png",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/mipmap-mdpi/ic_launcher_home.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/latam_op_two_launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/latam_op_two_launcher.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/all_apps_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/all_apps_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/apps_customize_application.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/apps_customize_application.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/folder_icon.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/folder_icon.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/latam_op_one_launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/latam_op_one_launcher.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/hotseat.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/hotseat.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/workspace_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/workspace_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/application.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/application.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/folder_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/folder_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/search_bar.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/search_bar.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-port/launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-port/launcher.xml"
+    }
+]

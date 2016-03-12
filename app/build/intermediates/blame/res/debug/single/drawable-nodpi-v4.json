@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_wallpaper.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-nodpi/default_wallpaper.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_wallpaper_small.jpg",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-nodpi/default_wallpaper_small.jpg"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/qti_default_wallpaper.jpg",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-nodpi/qti_default_wallpaper.jpg"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/qti_default_wallpaper_small.jpg",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable-nodpi/qti_default_wallpaper_small.jpg"
+    }
+]

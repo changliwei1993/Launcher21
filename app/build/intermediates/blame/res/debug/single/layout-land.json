@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/workspace_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/workspace_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/latam_op_one_launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/latam_op_one_launcher.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/search_bar.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/search_bar.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/latam_op_two_launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/latam_op_two_launcher.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/folder_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/folder_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/folder_icon.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/folder_icon.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/all_apps_cling.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/all_apps_cling.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/apps_customize_application.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/apps_customize_application.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/launcher.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/launcher.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/hotseat.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/hotseat.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/layout-land/application.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/layout-land/application.xml"
+    }
+]

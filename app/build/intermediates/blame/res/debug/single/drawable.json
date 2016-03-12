@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/remove_target_selector.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/remove_target_selector.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/info_target_selector.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/info_target_selector.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/uninstall_target_selector.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/uninstall_target_selector.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/cling_button_bg.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/cling_button_bg.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/wallpaper_gallery_background.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/wallpaper_gallery_background.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/focusable_view_bg.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/focusable_view_bg.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/wallpaper_gallery_item.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/wallpaper_gallery_item.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/tab_widget_indicator_selector.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/all_apps_button_icon.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/drawable/flying_icon_bg.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/drawable/flying_icon_bg.xml"
+    }
+]

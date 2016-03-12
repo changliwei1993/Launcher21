@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/cm_with_backup_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/cm_with_backup_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/latam_op_one_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/latam_op_one_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/update_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/update_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/srf_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/srf_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/wallpaper_picker_preview.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/wallpaper_picker_preview.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/mmx_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/mmx_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/ct_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/ct_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/latam_op_two_default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/latam_op_two_default_workspace.xml"
+    },
+    {
+        "merged": "/home/alex/workspace/applications/pad/Launcher21/app/build/intermediates/res/merged/debug/xml/default_workspace.xml",
+        "source": "/home/alex/workspace/applications/pad/Launcher21/app/src/main/res/xml/default_workspace.xml"
+    }
+]
