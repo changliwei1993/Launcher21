@@ -253,6 +253,10 @@ public class Workspace extends SmoothPagedView
     private float[] mNewRotationYs;
     private float mTransitionProgress;
 
+
+    // The screen id used for the empty screen always present to the right.
+    final static long EXTRA_EMPTY_SCREEN_ID = -201;
+
     private final Runnable mBindPages = new Runnable() {
         @Override
         public void run() {
@@ -428,6 +432,9 @@ public class Workspace extends SmoothPagedView
 
         mMaxDistanceForFolderCreation = (0.55f * res.getDimensionPixelSize(R.dimen.app_icon_size));
         mFlingThresholdVelocity = (int) (FLING_THRESHOLD_VELOCITY * mDensity);
+        insertNewWorkspaceScreen(EXTRA_EMPTY_SCREEN_ID);
+        insertNewWorkspaceScreen(EXTRA_EMPTY_SCREEN_ID);
+        insertNewWorkspaceScreen(EXTRA_EMPTY_SCREEN_ID);
     }
 
     @Override
@@ -3900,5 +3907,21 @@ public class Workspace extends SmoothPagedView
         if (qsbDivider != null) qsbDivider.setAlpha(reducedFade);
         if (dockDivider != null) dockDivider.setAlpha(reducedFade);
         scrollIndicator.setAlpha(1 - fade);
+    }
+
+    public long insertNewWorkspaceScreen(long screenId) {
+        return insertNewWorkspaceScreen(screenId, getChildCount());
+    }
+
+    public long insertNewWorkspaceScreen(long screenId, int insertIndex) {
+
+        CellLayout newScreen = (CellLayout)
+                mLauncher.getLayoutInflater().inflate(R.layout.workspace_screen, null);
+
+        newScreen.setOnLongClickListener(mLongClickListener);
+        newScreen.setOnClickListener(mLauncher);
+        newScreen.setSoundEffectsEnabled(false);
+        addView(newScreen, insertIndex);
+        return screenId;
     }
 }
