@@ -432,7 +432,6 @@ public class Workspace extends SmoothPagedView
 
         mMaxDistanceForFolderCreation = (0.55f * res.getDimensionPixelSize(R.dimen.app_icon_size));
         mFlingThresholdVelocity = (int) (FLING_THRESHOLD_VELOCITY * mDensity);
-        insertNewWorkspaceScreen(EXTRA_EMPTY_SCREEN_ID);
     }
 
     @Override

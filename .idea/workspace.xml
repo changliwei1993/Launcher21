@@ -9,10 +9,130 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f19114dd-4a27-42ce-8783-661c54c532c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="5b9da0a3-c910-4a4a-aeb6-a5f0aec931c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/test_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/testlayout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Folder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Folder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$LocaleConfiguration.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$LocaleConfiguration.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$PendingAddArguments.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$PendingAddArguments.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$State.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$State.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$LoaderTask$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$PackageUpdatedTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$ShortcutNameComparator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$ShortcutNameComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$WidgetAndShortcutNameComparator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/LauncherModel$WidgetAndShortcutNameComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooser.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment$ImageAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment$ImageAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$FolderCreationAlarmListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$FolderCreationAlarmListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$InverseZInterpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$InverseZInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ReorderAlarmListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ReorderAlarmListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$WallpaperOffsetInterpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$WallpaperOffsetInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZInterpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZoomInInterpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZoomInInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZoomOutInterpolator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace$ZoomOutInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Launcher21.iml" afterPath="$PROJECT_DIR$/Launcher21.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/android/launcher/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/android/launcher/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-land/launcher.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-land/launcher.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml" />
     </list>
     <ignored path="Launcher21.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,24 +166,28 @@
     <favorites_list name="Launcher21" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
+              <caret line="360" column="18" selection-start-line="360" selection-start-column="18" selection-end-line="360" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#43913#44105#0" expanded="true" />
+                <element signature="e#44104#44105#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LauncherApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/LauncherApplication.java">
+      <file leaf-file-name="launcher.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="39" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.55451715">
+              <caret line="125" column="39" selection-start-line="125" selection-start-column="39" selection-end-line="125" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -73,23 +197,328 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="433" column="5" selection-start-line="433" selection-start-column="5" selection-end-line="433" selection-end-column="5" />
-              <folding />
+              <caret line="256" column="3" selection-start-line="256" selection-start-column="3" selection-end-line="257" selection-end-column="51" />
+              <folding>
+                <element signature="docComment;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mDragInfo#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mTargetCell#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mDragTargetLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mDropToLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="e#5784#5860#0" expanded="false" />
+                <element signature="class#State#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;field#mInScrollArea#0;class#Workspace#0" expanded="false" />
+                <element signature="class#WallpaperVerticalOffset#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#Workspace#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#Workspace#1;class#Workspace#0" expanded="false" />
+                <element signature="e#11871#11918#0" expanded="false" />
+                <element signature="method#estimateItemSize#0;class#Workspace#0" expanded="false" />
+                <element signature="method#estimateItemPosition#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragStart#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragEnd#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#initWorkspace#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onChildViewAdded#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onChildViewRemoved#0;class#Workspace#0" expanded="false" />
+                <element signature="method#shouldDrawChild#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getOpenFolder#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getOpenFolder#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#addInScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="method#addInScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#addInScreen#1;class#Workspace#0" expanded="false" />
+                <element signature="method#addInScreen#1;class#Workspace#0" expanded="false" />
+                <element signature="e#21327#21411#0" expanded="false" />
+                <element signature="e#22874#22936#0" expanded="false" />
+                <element signature="docComment;method#hitsPage#0;class#Workspace#0" expanded="false" />
+                <element signature="method#hitsPage#0;class#Workspace#0" expanded="false" />
+                <element signature="method#hitsPreviousPage#0;class#Workspace#0" expanded="false" />
+                <element signature="e#24015#24078#0" expanded="false" />
+                <element signature="e#24268#24357#0" expanded="false" />
+                <element signature="method#hitsNextPage#0;class#Workspace#0" expanded="false" />
+                <element signature="e#24557#24620#0" expanded="false" />
+                <element signature="e#24810#24899#0" expanded="false" />
+                <element signature="docComment;method#onTouch#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onTouch#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#isFinishedSwitchingState#0;class#Workspace#0" expanded="false" />
+                <element signature="method#isFinishedSwitchingState#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onWindowVisibilityChanged#0;class#Workspace#0" expanded="false" />
+                <element signature="method#dispatchUnhandledMove#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onInterceptTouchEvent#0;class#Workspace#0" expanded="false" />
+                <element signature="method#reinflateWidgetsIfNecessary#0;class#Workspace#0" expanded="false" />
+                <element signature="method#determineScrollingStart#0;class#Workspace#0" expanded="false" />
+                <element signature="e#28725#28802#0" expanded="false" />
+                <element signature="method#onPageBeginMoving#0;class#Workspace#0" expanded="false" />
+                <element signature="e#29861#29934#0" expanded="false" />
+                <element signature="e#30377#30468#0" expanded="false" />
+                <element signature="method#onPageEndMoving#0;class#Workspace#0" expanded="false" />
+                <element signature="e#31186#31270#0" expanded="false" />
+                <element signature="method#notifyPageSwitchListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#wallpaperTravelToScreenWidthRatio#0;class#Workspace#0" expanded="false" />
+                <element signature="e#32489#32581#0" expanded="false" />
+                <element signature="e#33088#33173#0" expanded="false" />
+                <element signature="method#setWallpaperDimension#0;class#Workspace#0" expanded="false" />
+                <element signature="e#34216#34303#0" expanded="false" />
+                <element signature="class#34687:34871" expanded="false" />
+                <element signature="method#run#0;class#34687:34871" expanded="false" />
+                <element signature="method#wallpaperOffsetForCurrentScroll#0;class#Workspace#0" expanded="false" />
+                <element signature="e#35106#35186#0" expanded="false" />
+                <element signature="e#35901#35986#0" expanded="false" />
+                <element signature="method#syncWallpaperOffsetWithScroll#0;class#Workspace#0" expanded="false" />
+                <element signature="method#updateWallpaperOffsets#0;class#Workspace#0" expanded="false" />
+                <element signature="method#updateCurrentPageScroll#0;class#Workspace#0" expanded="false" />
+                <element signature="method#snapToPage#0;class#Workspace#0" expanded="false" />
+                <element signature="method#snapToPage#1;class#Workspace#0" expanded="false" />
+                <element signature="method#snapToPage#2;class#Workspace#0" expanded="false" />
+                <element signature="method#computeWallpaperScrollRatio#0;class#Workspace#0" expanded="false" />
+                <element signature="e#38519#38606#0" expanded="false" />
+                <element signature="class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#WallpaperOffsetInterpolator#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setOverrideHorizontalCatchupConstant#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#computeScrollOffset#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setFinalX#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setFinalY#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#jumpToFinal#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#computeScroll#0;class#Workspace#0" expanded="false" />
+                <element signature="method#showOutlines#0;class#Workspace#0" expanded="false" />
+                <element signature="method#hideOutlines#0;class#Workspace#0" expanded="false" />
+                <element signature="method#showOutlinesTemporarily#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setChildrenOutlineAlpha#0;class#Workspace#0" expanded="false" />
+                <element signature="method#animateBackgroundGradient#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setBackgroundAlpha#0;class#Workspace#0" expanded="false" />
+                <element signature="method#backgroundAlphaInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#updatePageAlphaValues#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setChildrenBackgroundAlphaMultipliers#0;class#Workspace#0" expanded="false" />
+                <element signature="method#screenScrolled#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onAttachedToWindow#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDetachedFromWindow#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDraw#0;class#Workspace#0" expanded="false" />
+                <element signature="method#isDrawingBackgroundGradient#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onRequestFocusInDescendants#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getDescendantFocusability#0;class#Workspace#0" expanded="false" />
+                <element signature="method#addFocusables#0;class#Workspace#0" expanded="false" />
+                <element signature="method#enableChildrenCache#0;class#Workspace#0" expanded="false" />
+                <element signature="method#clearChildrenCache#0;class#Workspace#0" expanded="false" />
+                <element signature="method#updateChildrenLayersEnabled#0;class#Workspace#0" expanded="false" />
+                <element signature="method#enableHwLayersOnVisiblePages#0;class#Workspace#0" expanded="false" />
+                <element signature="method#buildPageHardwareLayers#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onWallpaperTap#0;class#Workspace#0" expanded="false" />
+                <element signature="class#ZInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getInterpolation#0;class#ZInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getInterpolation#0;class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getInterpolation#0;class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getInterpolation#0;class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragStartedWithItem#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragStartedWithItem#1;class#Workspace#0" expanded="false" />
+                <element signature="method#exitWidgetResizeMode#0;class#Workspace#0" expanded="false" />
+                <element signature="method#initAnimationArrays#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getChangeStateAnimation#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getChangeStateAnimation#1;class#Workspace#0" expanded="false" />
+                <element signature="e#64484#64562#0" expanded="false" />
+                <element signature="e#68686#68730#0" expanded="false" />
+                <element signature="method#onLauncherTransitionPrepare#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onLauncherTransitionStart#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onLauncherTransitionEnd#0;class#Workspace#0" expanded="false" />
+                <element signature="e#69910#70001#0" expanded="false" />
+                <element signature="docComment;method#drawDragView#0;class#Workspace#0" expanded="false" />
+                <element signature="method#drawDragView#0;class#Workspace#0" expanded="false" />
+                <element signature="e#71424#71499#0" expanded="false" />
+                <element signature="docComment;method#createDragBitmap#0;class#Workspace#0" expanded="false" />
+                <element signature="method#createDragBitmap#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#createDragOutline#0;class#Workspace#0" expanded="false" />
+                <element signature="method#createDragOutline#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#createDragOutline#1;class#Workspace#0" expanded="false" />
+                <element signature="method#createDragOutline#1;class#Workspace#0" expanded="false" />
+                <element signature="method#startDrag#0;class#Workspace#0" expanded="false" />
+                <element signature="method#beginDragShared#0;class#Workspace#0" expanded="false" />
+                <element signature="e#77399#77472#0" expanded="false" />
+                <element signature="method#addApplicationShortcut#0;class#Workspace#0" expanded="false" />
+                <element signature="method#transitionStateShouldAllowDrop#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#acceptDrop#0;class#Workspace#0" expanded="false" />
+                <element signature="method#acceptDrop#0;class#Workspace#0" expanded="false" />
+                <element signature="e#82183#82265#0" expanded="false" />
+                <element signature="method#willCreateUserFolder#0;class#Workspace#0" expanded="false" />
+                <element signature="method#willAddToExistingUserFolder#0;class#Workspace#0" expanded="false" />
+                <element signature="method#createUserFolderIfNecessary#0;class#Workspace#0" expanded="false" />
+                <element signature="method#addToExistingFolderIfNecessary#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDrop#0;class#Workspace#0" expanded="false" />
+                <element signature="e#89861#89924#0" expanded="false" />
+                <element signature="e#90372#90435#0" expanded="false" />
+                <element signature="e#90952#91031#0" expanded="false" />
+                <element signature="e#93863#93928#0" expanded="false" />
+                <element signature="e#95972#96022#0" expanded="false" />
+                <element signature="method#setFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
+                <element signature="method#resetFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getViewLocationRelativeToSelf#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragEnter#0;class#Workspace#0" expanded="false" />
+                <element signature="e#98982#99065#0" expanded="false" />
+                <element signature="method#getCellLayoutMetrics#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragExit#0;class#Workspace#0" expanded="false" />
+                <element signature="e#101637#101718#0" expanded="false" />
+                <element signature="e#101827#101907#0" expanded="false" />
+                <element signature="method#setCurrentDropLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setCurrentDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setCurrentDropOverCell#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setDragMode#0;class#Workspace#0" expanded="false" />
+                <element signature="e#103924#104004#0" expanded="false" />
+                <element signature="method#cleanupFolderCreation#0;class#Workspace#0" expanded="false" />
+                <element signature="method#cleanupAddToFolder#0;class#Workspace#0" expanded="false" />
+                <element signature="method#cleanupReorder#0;class#Workspace#0" expanded="false" />
+                <element signature="method#mapPointFromSelfToChild#1;class#Workspace#0" expanded="false" />
+                <element signature="method#mapPointFromSelfToHotseatLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="method#mapPointFromChildToSelf#0;class#Workspace#0" expanded="false" />
+                <element signature="method#squaredDistance#0;class#Workspace#0" expanded="false" />
+                <element signature="method#overlaps#0;class#Workspace#0" expanded="false" />
+                <element signature="e#108397#108449#0" expanded="false" />
+                <element signature="e#108806#108862#0" expanded="false" />
+                <element signature="method#findMatchingPageForDragOver#0;class#Workspace#0" expanded="false" />
+                <element signature="e#110087#110165#0" expanded="false" />
+                <element signature="e#110583#110655#0" expanded="false" />
+                <element signature="e#111514#111576#0" expanded="false" />
+                <element signature="method#getDragViewVisualCenter#0;class#Workspace#0" expanded="false" />
+                <element signature="e#112538#112622#0" expanded="false" />
+                <element signature="e#112861#112944#0" expanded="false" />
+                <element signature="method#isDragWidget#0;class#Workspace#0" expanded="false" />
+                <element signature="method#isExternalDragWidget#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDragOver#0;class#Workspace#0" expanded="false" />
+                <element signature="e#118405#118485#0" expanded="false" />
+                <element signature="method#manageFolderFeedback#0;class#Workspace#0" expanded="false" />
+                <element signature="class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#FolderCreationAlarmListener#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onAlarm#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#ReorderAlarmListener#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onAlarm#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getHitRect#0;class#Workspace#0" expanded="false" />
+                <element signature="e#123296#123384#0" expanded="false" />
+                <element signature="docComment;method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDropExternal#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#onDropExternal#1;class#Workspace#0" expanded="false" />
+                <element signature="method#onDropExternal#1;class#Workspace#0" expanded="false" />
+                <element signature="e#127674#127750#0" expanded="false" />
+                <element signature="e#130744#130807#0" expanded="false" />
+                <element signature="e#132675#132750#0" expanded="false" />
+                <element signature="method#createWidgetBitmap#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getFinalPositionForDropAnimation#0;class#Workspace#0" expanded="false" />
+                <element signature="e#134235#134318#0" expanded="false" />
+                <element signature="e#135131#135216#0" expanded="false" />
+                <element signature="method#animateWidgetDrop#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setFinalTransitionTransform#0;class#Workspace#0" expanded="false" />
+                <element signature="method#resetTransitionTransform#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getCurrentDropLayout#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getDragInfo#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#findNearestArea#0;class#Workspace#0" expanded="false" />
+                <element signature="method#findNearestArea#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setup#0;class#Workspace#0" expanded="false" />
+                <element signature="e#140774#140857#0" expanded="false" />
+                <element signature="docComment;method#onDropCompleted#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onDropCompleted#0;class#Workspace#0" expanded="false" />
+                <element signature="method#updateItemLocationsInDatabase#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onFlingToDelete#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onFlingToDeleteCompleted#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onRestoreInstanceState#0;class#Workspace#0" expanded="false" />
+                <element signature="method#dispatchRestoreInstanceState#0;class#Workspace#0" expanded="false" />
+                <element signature="e#143722#143801#0" expanded="false" />
+                <element signature="method#restoreInstanceStateForChild#0;class#Workspace#0" expanded="false" />
+                <element signature="method#restoreInstanceStateForRemainingPages#0;class#Workspace#0" expanded="false" />
+                <element signature="method#scrollLeft#0;class#Workspace#0" expanded="false" />
+                <element signature="method#scrollRight#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onEnterScrollArea#0;class#Workspace#0" expanded="false" />
+                <element signature="e#146151#146223#0" expanded="false" />
+                <element signature="method#onExitScrollArea#0;class#Workspace#0" expanded="false" />
+                <element signature="method#onResetScrollArea#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
+                <element signature="docComment;method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getFolderForTag#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getViewForTag#0;class#Workspace#0" expanded="false" />
+                <element signature="method#clearDropTargets#0;class#Workspace#0" expanded="false" />
+                <element signature="method#removeItemsByPackageName#0;class#Workspace#0" expanded="false" />
+                <element signature="method#removeItemsByApplicationInfo#0;class#Workspace#0" expanded="false" />
+                <element signature="method#removeItemsByComponentName#0;class#Workspace#0" expanded="false" />
+                <element signature="e#157326#157402#0" expanded="false" />
+                <element signature="e#159022#159090#0" expanded="false" />
+                <element signature="method#updateShortcuts#0;class#Workspace#0" expanded="false" />
+                <element signature="e#160314#160380#0" expanded="false" />
+                <element signature="method#moveToDefaultScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="method#syncPages#0;class#Workspace#0" expanded="false" />
+                <element signature="method#syncPageItems#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getCurrentPageDescription#0;class#Workspace#0" expanded="false" />
+                <element signature="method#getLocationInDragLayer#0;class#Workspace#0" expanded="false" />
+                <element signature="method#setFadeForOverScroll#0;class#Workspace#0" expanded="false" />
+                <element signature="method#insertNewWorkspaceScreen#0;class#Workspace#0" expanded="false" />
+                <element signature="method#insertNewWorkspaceScreen#1;class#Workspace#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="workspace_screen.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/workspace_screen.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2670251">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state vertical-scroll-proportion="-1.367647">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="32" selection-end-column="49" />
+              <folding>
+                <element signature="e#1335#1363#0" expanded="true" />
+                <element signature="e#1387#1416#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_screen.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test_screen.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.735294">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="e#320#355#0" expanded="true" />
+                <element signature="e#379#413#0" expanded="true" />
+                <element signature="e#439#472#0" expanded="true" />
+                <element signature="e#496#528#0" expanded="true" />
+                <element signature="e#554#584#0" expanded="true" />
+                <element signature="e#608#637#0" expanded="true" />
+                <element signature="e#661#690#0" expanded="true" />
+                <element signature="e#711#737#0" expanded="true" />
+                <element signature="e#760#788#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testlayout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/testlayout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0588236">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1107,7 +1536,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4373110246000" />
+        <entry key="$PROJECT_DIR$" value="4373579132030" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1353,20 +1782,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/workspace_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/testlayout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/test_screen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -1377,7 +1808,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1391,108 +1822,146 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
+      <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="launcher.xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Launcher21" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Launcher21" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home_press.9.png" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Launcher21" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hand.png" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Launcher21" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="launcher2" />
@@ -1502,31 +1971,19 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="launcher2" />
@@ -1540,61 +1997,48 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Launcher21" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Launcher21" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="android.project.structure.last.selected" value="app" />
-    <property name="android.project.structure.proportion" value="0.15" />
-    <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="2014G200RBef8a0806" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Test" />
-    <property name="device.picker.selection" value="New_Device_API_22" />
+    <property name="device.picker.selection" value="7e5d4374" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1604,7 +2048,7 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -1639,7 +2083,7 @@
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -1679,31 +2123,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1723,10 +2142,7 @@
       </option>
       <envs />
       <patterns />
-      <method>
-        <option name="Make" enabled="false" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1791,7 +2207,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -1885,293 +2301,425 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="StatisticProjectComponent">
-    <option name="excludeCompilerOutput" value="true" />
-    <option name="excludeIdea9ArtifactDirectory" value="true" />
-    <option name="excludeGitArtifactDirectory" value="true" />
-    <option name="excludeSubversionArtifactDirectory" value="true" />
-    <option name="excludeDotArtifactDirectory" value="false" />
-    <option name="excludeTargetDirectories" value="true" />
-    <option name="activateWhenOpenProject" value="false" />
-    <option name="excludedDirectories">
-      <value>
-        <list size="0" />
-      </value>
-    </option>
-    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f19114dd-4a27-42ce-8783-661c54c532c7" name="Default" comment="" />
-      <created>1457677100061</created>
+      <changelist id="5b9da0a3-c910-4a4a-aeb6-a5f0aec931c4" name="Default" comment="" />
+      <created>1458021958901</created>
       <option name="number" value="Default" />
-      <updated>1457677100061</updated>
+      <updated>1458021958901</updated>
     </task>
-    <task id="LOCAL-00001" summary="fisrt commit&#10;">
-      <created>1457765748725</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1457765748726</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.50193906" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462203" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.49806094" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19870411" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55902004" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="fisrt commit&#10;" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qsb_bar.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.52481204">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/home_press.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/hand.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/hotseat.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22058824">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#893#922#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/LauncherApplication.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/testlayout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="39" />
+        <state vertical-scroll-proportion="-3.0588236">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test_screen.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.735294">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#320#355#0" expanded="true" />
+            <element signature="e#379#413#0" expanded="true" />
+            <element signature="e#439#472#0" expanded="true" />
+            <element signature="e#496#528#0" expanded="true" />
+            <element signature="e#554#584#0" expanded="true" />
+            <element signature="e#608#637#0" expanded="true" />
+            <element signature="e#661#690#0" expanded="true" />
+            <element signature="e#711#737#0" expanded="true" />
+            <element signature="e#760#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/workspace_screen.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.367647">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <element signature="e#1335#1363#0" expanded="true" />
+            <element signature="e#1387#1416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="256" column="3" selection-start-line="256" selection-start-column="3" selection-end-line="257" selection-end-column="51" />
+          <folding>
+            <element signature="docComment;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mDragInfo#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mTargetCell#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mDragTargetLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mDropToLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="e#5784#5860#0" expanded="false" />
+            <element signature="class#State#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;field#mInScrollArea#0;class#Workspace#0" expanded="false" />
+            <element signature="class#WallpaperVerticalOffset#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#Workspace#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#Workspace#1;class#Workspace#0" expanded="false" />
+            <element signature="e#11871#11918#0" expanded="false" />
+            <element signature="method#estimateItemSize#0;class#Workspace#0" expanded="false" />
+            <element signature="method#estimateItemPosition#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragStart#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragEnd#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#initWorkspace#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onChildViewAdded#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onChildViewRemoved#0;class#Workspace#0" expanded="false" />
+            <element signature="method#shouldDrawChild#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getOpenFolder#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getOpenFolder#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#addInScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="method#addInScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#addInScreen#1;class#Workspace#0" expanded="false" />
+            <element signature="method#addInScreen#1;class#Workspace#0" expanded="false" />
+            <element signature="e#21327#21411#0" expanded="false" />
+            <element signature="e#22874#22936#0" expanded="false" />
+            <element signature="docComment;method#hitsPage#0;class#Workspace#0" expanded="false" />
+            <element signature="method#hitsPage#0;class#Workspace#0" expanded="false" />
+            <element signature="method#hitsPreviousPage#0;class#Workspace#0" expanded="false" />
+            <element signature="e#24015#24078#0" expanded="false" />
+            <element signature="e#24268#24357#0" expanded="false" />
+            <element signature="method#hitsNextPage#0;class#Workspace#0" expanded="false" />
+            <element signature="e#24557#24620#0" expanded="false" />
+            <element signature="e#24810#24899#0" expanded="false" />
+            <element signature="docComment;method#onTouch#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onTouch#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#isFinishedSwitchingState#0;class#Workspace#0" expanded="false" />
+            <element signature="method#isFinishedSwitchingState#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onWindowVisibilityChanged#0;class#Workspace#0" expanded="false" />
+            <element signature="method#dispatchUnhandledMove#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onInterceptTouchEvent#0;class#Workspace#0" expanded="false" />
+            <element signature="method#reinflateWidgetsIfNecessary#0;class#Workspace#0" expanded="false" />
+            <element signature="method#determineScrollingStart#0;class#Workspace#0" expanded="false" />
+            <element signature="e#28725#28802#0" expanded="false" />
+            <element signature="method#onPageBeginMoving#0;class#Workspace#0" expanded="false" />
+            <element signature="e#29861#29934#0" expanded="false" />
+            <element signature="e#30377#30468#0" expanded="false" />
+            <element signature="method#onPageEndMoving#0;class#Workspace#0" expanded="false" />
+            <element signature="e#31186#31270#0" expanded="false" />
+            <element signature="method#notifyPageSwitchListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#wallpaperTravelToScreenWidthRatio#0;class#Workspace#0" expanded="false" />
+            <element signature="e#32489#32581#0" expanded="false" />
+            <element signature="e#33088#33173#0" expanded="false" />
+            <element signature="method#setWallpaperDimension#0;class#Workspace#0" expanded="false" />
+            <element signature="e#34216#34303#0" expanded="false" />
+            <element signature="class#34687:34871" expanded="false" />
+            <element signature="method#run#0;class#34687:34871" expanded="false" />
+            <element signature="method#wallpaperOffsetForCurrentScroll#0;class#Workspace#0" expanded="false" />
+            <element signature="e#35106#35186#0" expanded="false" />
+            <element signature="e#35901#35986#0" expanded="false" />
+            <element signature="method#syncWallpaperOffsetWithScroll#0;class#Workspace#0" expanded="false" />
+            <element signature="method#updateWallpaperOffsets#0;class#Workspace#0" expanded="false" />
+            <element signature="method#updateCurrentPageScroll#0;class#Workspace#0" expanded="false" />
+            <element signature="method#snapToPage#0;class#Workspace#0" expanded="false" />
+            <element signature="method#snapToPage#1;class#Workspace#0" expanded="false" />
+            <element signature="method#snapToPage#2;class#Workspace#0" expanded="false" />
+            <element signature="method#computeWallpaperScrollRatio#0;class#Workspace#0" expanded="false" />
+            <element signature="e#38519#38606#0" expanded="false" />
+            <element signature="class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#WallpaperOffsetInterpolator#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setOverrideHorizontalCatchupConstant#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#computeScrollOffset#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setFinalX#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setFinalY#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#jumpToFinal#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#computeScroll#0;class#Workspace#0" expanded="false" />
+            <element signature="method#showOutlines#0;class#Workspace#0" expanded="false" />
+            <element signature="method#hideOutlines#0;class#Workspace#0" expanded="false" />
+            <element signature="method#showOutlinesTemporarily#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setChildrenOutlineAlpha#0;class#Workspace#0" expanded="false" />
+            <element signature="method#animateBackgroundGradient#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setBackgroundAlpha#0;class#Workspace#0" expanded="false" />
+            <element signature="method#backgroundAlphaInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#updatePageAlphaValues#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setChildrenBackgroundAlphaMultipliers#0;class#Workspace#0" expanded="false" />
+            <element signature="method#screenScrolled#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onAttachedToWindow#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDetachedFromWindow#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDraw#0;class#Workspace#0" expanded="false" />
+            <element signature="method#isDrawingBackgroundGradient#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onRequestFocusInDescendants#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getDescendantFocusability#0;class#Workspace#0" expanded="false" />
+            <element signature="method#addFocusables#0;class#Workspace#0" expanded="false" />
+            <element signature="method#enableChildrenCache#0;class#Workspace#0" expanded="false" />
+            <element signature="method#clearChildrenCache#0;class#Workspace#0" expanded="false" />
+            <element signature="method#updateChildrenLayersEnabled#0;class#Workspace#0" expanded="false" />
+            <element signature="method#enableHwLayersOnVisiblePages#0;class#Workspace#0" expanded="false" />
+            <element signature="method#buildPageHardwareLayers#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onWallpaperTap#0;class#Workspace#0" expanded="false" />
+            <element signature="class#ZInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getInterpolation#0;class#ZInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getInterpolation#0;class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getInterpolation#0;class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getInterpolation#0;class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragStartedWithItem#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragStartedWithItem#1;class#Workspace#0" expanded="false" />
+            <element signature="method#exitWidgetResizeMode#0;class#Workspace#0" expanded="false" />
+            <element signature="method#initAnimationArrays#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getChangeStateAnimation#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getChangeStateAnimation#1;class#Workspace#0" expanded="false" />
+            <element signature="e#64484#64562#0" expanded="false" />
+            <element signature="e#68686#68730#0" expanded="false" />
+            <element signature="method#onLauncherTransitionPrepare#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onLauncherTransitionStart#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onLauncherTransitionEnd#0;class#Workspace#0" expanded="false" />
+            <element signature="e#69910#70001#0" expanded="false" />
+            <element signature="docComment;method#drawDragView#0;class#Workspace#0" expanded="false" />
+            <element signature="method#drawDragView#0;class#Workspace#0" expanded="false" />
+            <element signature="e#71424#71499#0" expanded="false" />
+            <element signature="docComment;method#createDragBitmap#0;class#Workspace#0" expanded="false" />
+            <element signature="method#createDragBitmap#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#createDragOutline#0;class#Workspace#0" expanded="false" />
+            <element signature="method#createDragOutline#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#createDragOutline#1;class#Workspace#0" expanded="false" />
+            <element signature="method#createDragOutline#1;class#Workspace#0" expanded="false" />
+            <element signature="method#startDrag#0;class#Workspace#0" expanded="false" />
+            <element signature="method#beginDragShared#0;class#Workspace#0" expanded="false" />
+            <element signature="e#77399#77472#0" expanded="false" />
+            <element signature="method#addApplicationShortcut#0;class#Workspace#0" expanded="false" />
+            <element signature="method#transitionStateShouldAllowDrop#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#acceptDrop#0;class#Workspace#0" expanded="false" />
+            <element signature="method#acceptDrop#0;class#Workspace#0" expanded="false" />
+            <element signature="e#82183#82265#0" expanded="false" />
+            <element signature="method#willCreateUserFolder#0;class#Workspace#0" expanded="false" />
+            <element signature="method#willAddToExistingUserFolder#0;class#Workspace#0" expanded="false" />
+            <element signature="method#createUserFolderIfNecessary#0;class#Workspace#0" expanded="false" />
+            <element signature="method#addToExistingFolderIfNecessary#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDrop#0;class#Workspace#0" expanded="false" />
+            <element signature="e#89861#89924#0" expanded="false" />
+            <element signature="e#90372#90435#0" expanded="false" />
+            <element signature="e#90952#91031#0" expanded="false" />
+            <element signature="e#93863#93928#0" expanded="false" />
+            <element signature="e#95972#96022#0" expanded="false" />
+            <element signature="method#setFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
+            <element signature="method#resetFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getViewLocationRelativeToSelf#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragEnter#0;class#Workspace#0" expanded="false" />
+            <element signature="e#98982#99065#0" expanded="false" />
+            <element signature="method#getCellLayoutMetrics#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragExit#0;class#Workspace#0" expanded="false" />
+            <element signature="e#101637#101718#0" expanded="false" />
+            <element signature="e#101827#101907#0" expanded="false" />
+            <element signature="method#setCurrentDropLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setCurrentDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setCurrentDropOverCell#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setDragMode#0;class#Workspace#0" expanded="false" />
+            <element signature="e#103924#104004#0" expanded="false" />
+            <element signature="method#cleanupFolderCreation#0;class#Workspace#0" expanded="false" />
+            <element signature="method#cleanupAddToFolder#0;class#Workspace#0" expanded="false" />
+            <element signature="method#cleanupReorder#0;class#Workspace#0" expanded="false" />
+            <element signature="method#mapPointFromSelfToChild#1;class#Workspace#0" expanded="false" />
+            <element signature="method#mapPointFromSelfToHotseatLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="method#mapPointFromChildToSelf#0;class#Workspace#0" expanded="false" />
+            <element signature="method#squaredDistance#0;class#Workspace#0" expanded="false" />
+            <element signature="method#overlaps#0;class#Workspace#0" expanded="false" />
+            <element signature="e#108397#108449#0" expanded="false" />
+            <element signature="e#108806#108862#0" expanded="false" />
+            <element signature="method#findMatchingPageForDragOver#0;class#Workspace#0" expanded="false" />
+            <element signature="e#110087#110165#0" expanded="false" />
+            <element signature="e#110583#110655#0" expanded="false" />
+            <element signature="e#111514#111576#0" expanded="false" />
+            <element signature="method#getDragViewVisualCenter#0;class#Workspace#0" expanded="false" />
+            <element signature="e#112538#112622#0" expanded="false" />
+            <element signature="e#112861#112944#0" expanded="false" />
+            <element signature="method#isDragWidget#0;class#Workspace#0" expanded="false" />
+            <element signature="method#isExternalDragWidget#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDragOver#0;class#Workspace#0" expanded="false" />
+            <element signature="e#118405#118485#0" expanded="false" />
+            <element signature="method#manageFolderFeedback#0;class#Workspace#0" expanded="false" />
+            <element signature="class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#FolderCreationAlarmListener#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onAlarm#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#ReorderAlarmListener#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onAlarm#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getHitRect#0;class#Workspace#0" expanded="false" />
+            <element signature="e#123296#123384#0" expanded="false" />
+            <element signature="docComment;method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDropExternal#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#onDropExternal#1;class#Workspace#0" expanded="false" />
+            <element signature="method#onDropExternal#1;class#Workspace#0" expanded="false" />
+            <element signature="e#127674#127750#0" expanded="false" />
+            <element signature="e#130744#130807#0" expanded="false" />
+            <element signature="e#132675#132750#0" expanded="false" />
+            <element signature="method#createWidgetBitmap#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getFinalPositionForDropAnimation#0;class#Workspace#0" expanded="false" />
+            <element signature="e#134235#134318#0" expanded="false" />
+            <element signature="e#135131#135216#0" expanded="false" />
+            <element signature="method#animateWidgetDrop#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setFinalTransitionTransform#0;class#Workspace#0" expanded="false" />
+            <element signature="method#resetTransitionTransform#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getCurrentDropLayout#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getDragInfo#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#findNearestArea#0;class#Workspace#0" expanded="false" />
+            <element signature="method#findNearestArea#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setup#0;class#Workspace#0" expanded="false" />
+            <element signature="e#140774#140857#0" expanded="false" />
+            <element signature="docComment;method#onDropCompleted#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onDropCompleted#0;class#Workspace#0" expanded="false" />
+            <element signature="method#updateItemLocationsInDatabase#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onFlingToDelete#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onFlingToDeleteCompleted#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onRestoreInstanceState#0;class#Workspace#0" expanded="false" />
+            <element signature="method#dispatchRestoreInstanceState#0;class#Workspace#0" expanded="false" />
+            <element signature="e#143722#143801#0" expanded="false" />
+            <element signature="method#restoreInstanceStateForChild#0;class#Workspace#0" expanded="false" />
+            <element signature="method#restoreInstanceStateForRemainingPages#0;class#Workspace#0" expanded="false" />
+            <element signature="method#scrollLeft#0;class#Workspace#0" expanded="false" />
+            <element signature="method#scrollRight#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onEnterScrollArea#0;class#Workspace#0" expanded="false" />
+            <element signature="e#146151#146223#0" expanded="false" />
+            <element signature="method#onExitScrollArea#0;class#Workspace#0" expanded="false" />
+            <element signature="method#onResetScrollArea#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
+            <element signature="docComment;method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getFolderForTag#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getViewForTag#0;class#Workspace#0" expanded="false" />
+            <element signature="method#clearDropTargets#0;class#Workspace#0" expanded="false" />
+            <element signature="method#removeItemsByPackageName#0;class#Workspace#0" expanded="false" />
+            <element signature="method#removeItemsByApplicationInfo#0;class#Workspace#0" expanded="false" />
+            <element signature="method#removeItemsByComponentName#0;class#Workspace#0" expanded="false" />
+            <element signature="e#157326#157402#0" expanded="false" />
+            <element signature="e#159022#159090#0" expanded="false" />
+            <element signature="method#updateShortcuts#0;class#Workspace#0" expanded="false" />
+            <element signature="e#160314#160380#0" expanded="false" />
+            <element signature="method#moveToDefaultScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="method#syncPages#0;class#Workspace#0" expanded="false" />
+            <element signature="method#syncPageItems#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getCurrentPageDescription#0;class#Workspace#0" expanded="false" />
+            <element signature="method#getLocationInDragLayer#0;class#Workspace#0" expanded="false" />
+            <element signature="method#setFadeForOverScroll#0;class#Workspace#0" expanded="false" />
+            <element signature="method#insertNewWorkspaceScreen#0;class#Workspace#0" expanded="false" />
+            <element signature="method#insertNewWorkspaceScreen#1;class#Workspace#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="360" column="18" selection-start-line="360" selection-start-column="18" selection-end-line="360" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#43913#44105#0" expanded="true" />
+            <element signature="e#44104#44105#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/LauncherApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="39" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml">
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="51" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/LauncherApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/IconCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/common/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="51" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/common/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.16507937">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/IconCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41269842">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/LauncherApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="433" column="5" selection-start-line="433" selection-start-column="5" selection-end-line="433" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2670251">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.55451715">
+          <caret line="125" column="39" selection-start-line="125" selection-start-column="39" selection-end-line="125" selection-end-column="39" />
           <folding />
         </state>
       </provider>

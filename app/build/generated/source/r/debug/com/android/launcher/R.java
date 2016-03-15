@@ -657,6 +657,7 @@ containing a value of this type.
         public static final int cell3=0x7f0e0020;
         public static final int cell4=0x7f0e0021;
         public static final int cell5=0x7f0e0022;
+        public static final int cellcontents=0x7f0e0032;
         public static final int cling_dismiss=0x7f0e0004;
         public static final int delete_target_text=0x7f0e0011;
         public static final int dock_divider=0x7f0e001c;
@@ -665,10 +666,10 @@ containing a value of this type.
         public static final int folder_cling=0x7f0e0026;
         public static final int folder_cling_create_folder=0x7f0e0016;
         public static final int folder_cling_title=0x7f0e0015;
-        public static final int folder_content=0x7f0e0032;
+        public static final int folder_content=0x7f0e0033;
         public static final int folder_icon_name=0x7f0e0018;
         public static final int folder_name=0x7f0e002e;
-        public static final int gallery=0x7f0e0033;
+        public static final int gallery=0x7f0e0034;
         public static final int horizontal=0x7f0e0000;
         public static final int hotseat=0x7f0e0023;
         public static final int info_target_text=0x7f0e0012;
@@ -685,14 +686,14 @@ containing a value of this type.
         public static final int qsb_search_bar=0x7f0e002b;
         public static final int search_button=0x7f0e002f;
         public static final int search_button_container=0x7f0e0030;
-        public static final int set=0x7f0e0034;
+        public static final int set=0x7f0e0035;
         public static final int tabs_container=0x7f0e0007;
         public static final int vertical=0x7f0e0001;
         public static final int voice_button=0x7f0e0028;
         public static final int voice_button_container=0x7f0e0031;
         public static final int voice_button_proxy=0x7f0e0027;
-        public static final int wallpaper_chooser_fragment=0x7f0e0035;
-        public static final int wallpaper_image=0x7f0e0036;
+        public static final int wallpaper_chooser_fragment=0x7f0e0036;
+        public static final int wallpaper_image=0x7f0e0037;
         public static final int widget_dims=0x7f0e0010;
         public static final int widget_name=0x7f0e000f;
         public static final int widget_preview=0x7f0e000e;
@@ -768,14 +769,16 @@ containing a value of this type.
         public static final int scroll_indicator=0x7f040016;
         public static final int search_bar=0x7f040017;
         public static final int tab_widget_indicator=0x7f040018;
-        public static final int user_folder=0x7f040019;
-        public static final int wallpaper_chooser=0x7f04001a;
-        public static final int wallpaper_chooser_base=0x7f04001b;
-        public static final int wallpaper_item=0x7f04001c;
-        public static final int workspace=0x7f04001d;
-        public static final int workspace_cling=0x7f04001e;
-        public static final int workspace_divider=0x7f04001f;
-        public static final int workspace_screen=0x7f040020;
+        public static final int test_screen=0x7f040019;
+        public static final int testlayout=0x7f04001a;
+        public static final int user_folder=0x7f04001b;
+        public static final int wallpaper_chooser=0x7f04001c;
+        public static final int wallpaper_chooser_base=0x7f04001d;
+        public static final int wallpaper_item=0x7f04001e;
+        public static final int workspace=0x7f04001f;
+        public static final int workspace_cling=0x7f040020;
+        public static final int workspace_divider=0x7f040021;
+        public static final int workspace_screen=0x7f040022;
     }
     public static final class mipmap {
         public static final int ic_launcher_application=0x7f030000;
