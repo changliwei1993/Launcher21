@@ -16,7 +16,8 @@
 <com.android.launcher2.SearchDropTargetBar
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/QSBBar"
-    android:focusable="false">
+    android:focusable="false"
+    android:visibility="gone">
 
     <!-- Search buttons container -->
     <include android:id="@+id/qsb_search_bar"
