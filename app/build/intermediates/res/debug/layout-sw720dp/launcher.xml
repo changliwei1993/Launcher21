@@ -64,7 +64,7 @@
             launcher:scrollIndicatorPaddingLeft="@dimen/workspace_divider_padding_left"
             launcher:scrollIndicatorPaddingRight="@dimen/workspace_divider_padding_right">
 
-            <include android:id="@+id/cell1" layout="@layout/workspace_screen" />
+            <include android:id="@+id/cell1" layout="@layout/test_screen" />
             <include android:id="@+id/cell2" layout="@layout/workspace_screen" />
             <include android:id="@+id/cell3" layout="@layout/workspace_screen" />
             <include android:id="@+id/cell4" layout="@layout/workspace_screen" />
