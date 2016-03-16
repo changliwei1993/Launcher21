@@ -20,6 +20,7 @@
     android:layout_width="match_parent"
     android:layout_height="@dimen/search_bar_height"
     android:layout_gravity="bottom|center_horizontal"
+    android:visibility="invisible"
     android:background="@drawable/search_frame">
    <!-- Global search icon -->
    <com.android.launcher2.HolographicLinearLayout

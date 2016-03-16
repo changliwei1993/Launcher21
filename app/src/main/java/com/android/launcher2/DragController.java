@@ -496,7 +496,7 @@ public class DragController {
             Math.sqrt(Math.pow(mLastTouch[0] - x, 2) + Math.pow(mLastTouch[1] - y, 2));
         mLastTouch[0] = x;
         mLastTouch[1] = y;
-        checkScrollState(x, y);
+        //checkScrollState(x, y);
     }
 
     public void forceTouchMove() {
@@ -576,6 +576,7 @@ public class DragController {
 
         switch (action) {
         case MotionEvent.ACTION_DOWN:
+            Log.d("Test","Down");
             // Remember where the motion event started
             mMotionDownX = dragLayerX;
             mMotionDownY = dragLayerY;
@@ -588,9 +589,11 @@ public class DragController {
             }
             break;
         case MotionEvent.ACTION_MOVE:
+            Log.d("Test","Move");
             handleMoveEvent(dragLayerX, dragLayerY);
             break;
         case MotionEvent.ACTION_UP:
+            Log.d("Test","Up");
             // Ensure that we've processed a move event at the current pointer location.
             handleMoveEvent(dragLayerX, dragLayerY);
             mHandler.removeCallbacks(mScrollRunnable);
@@ -606,6 +609,7 @@ public class DragController {
             endDrag();
             break;
         case MotionEvent.ACTION_CANCEL:
+            Log.d("Test","Cancel");
             mHandler.removeCallbacks(mScrollRunnable);
             cancelDrag();
             break;
