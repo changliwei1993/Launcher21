@@ -1419,6 +1419,7 @@ public class LauncherModel extends BroadcastReceiver {
                                 }
                                 try {
                                     intent = Intent.parseUri(intentDescription, 0);
+                                    Log.d("intentDescription",intentDescription);
                                 } catch (URISyntaxException e) {
                                     continue;
                                 }
