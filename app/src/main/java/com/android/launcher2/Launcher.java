@@ -1053,6 +1053,10 @@ public final class Launcher extends Activity
         mQsbDivider = findViewById(R.id.qsb_divider);
         mDockDivider = findViewById(R.id.dock_divider);
 
+        FolderScreenLayout folderScreenLayout=(FolderScreenLayout)findViewById(R.id.folder_screen);
+
+
+
         mLauncherView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN);
         mWorkspaceBackgroundDrawable = getResources().getDrawable(R.drawable.workspace_bg);
 
