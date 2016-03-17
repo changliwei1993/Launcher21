@@ -49,4 +49,10 @@ public class FolderScreenLayout extends RelativeLayout {
             childView.layout(29+i%4*98,29+i/4*98,98+i%4*98,98+i/4*98);
         }
     }
+
+
+    public void addAFolder(){
+        addView(creatAFolderIcon());
+        invalidate();
+    }
 }

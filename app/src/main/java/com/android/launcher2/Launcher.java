@@ -101,6 +101,7 @@ import android.view.animation.AccelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Advanceable;
+import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -1055,6 +1056,7 @@ public final class Launcher extends Activity
 
         FolderScreenLayout folderScreenLayout=(FolderScreenLayout)findViewById(R.id.folder_screen);
 
+        initFolderGrid();
 
 
         mLauncherView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN);
@@ -1989,6 +1991,19 @@ public final class Launcher extends Activity
         mWorkspace.addInScreen(newFolder, container, screen, cellX, cellY, 1, 1,
                 isWorkspaceLocked());
         return newFolder;
+    }
+
+    private void initFolderGrid(){
+        ArrayList<String> mNameList=new ArrayList<>();
+        ArrayList<Drawable> mDrawableList=new ArrayList<>();
+        for (int i=0;i<=10;i++){
+            mNameList.add(String.valueOf(i));
+            mDrawableList.add(getResources().getDrawable(R.drawable.portal_ring_inner_holo));
+        }
+
+        GridView grid = (GridView) findViewById(R.id.folder_grid);
+        grid.setAdapter(new FolderGridAdapter(this, mNameList, mDrawableList));
+
     }
 
     void removeFolder(FolderInfo folder) {

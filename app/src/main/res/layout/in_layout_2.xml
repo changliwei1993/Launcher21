@@ -8,13 +8,33 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="210dp"
         android:background="@drawable/xuexizhenduan_large"/>
+
+
+    <GridView
+        android:id="@+id/folder_grid"
+        android:layout_width="420dp"
+        android:layout_height="538dp"
+        android:background="@drawable/homescreen_blue_normal_holo"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="60dp"
+        android:numColumns="4"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+
+        >
+
+
+    </GridView>
+
     <com.android.launcher2.FolderScreenLayout
         android:id="@+id/folder_screen"
         android:layout_width="420dp"
         android:layout_height="538dp"
         android:background="@drawable/homescreen_blue_normal_holo"
         android:layout_alignParentRight="true"
-        android:layout_marginRight="60dp">
+        android:layout_marginRight="60dp"
+        android:visibility="gone">
 
 <!--        <ImageView
             android:id="@+id/folder_1"
