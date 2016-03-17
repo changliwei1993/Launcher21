@@ -19,91 +19,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b9da0a3-c910-4a4a-aeb6-a5f0aec931c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppWidgetResizeFrame.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppWidgetResizeFrame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppsCustomizePagedView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppsCustomizePagedView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppsCustomizeTabHost.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/AppsCustomizeTabHost.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/FocusHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/FocusHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Folder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Folder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Hotseat.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Hotseat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$LocaleConfiguration.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$LocaleConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$PendingAddArguments.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$PendingAddArguments.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$State.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/SearchDropTargetBar.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/SearchDropTargetBar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooser.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment$ImageAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment$ImageAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/WallpaperChooserDialogFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Workspace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/android/launcher/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/android/launcher/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" />
     </list>
     <ignored path="Launcher21.iws" />
@@ -720,14 +643,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="in_layout_2.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="in_layout_2.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.514706">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.5248447">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -755,14 +678,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gridview_item.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gridview_item.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16149068">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state vertical-scroll-proportion="-4.2058825">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -2055,8 +1978,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" />
       </list>
     </option>
   </component>
@@ -2669,7 +2592,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2677,7 +2600,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19654427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19654427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2686,7 +2609,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2166205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2166205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4471,26 +4394,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.514706">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16149068">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state vertical-scroll-proportion="-4.2058825">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5248447">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
