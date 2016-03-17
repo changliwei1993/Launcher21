@@ -19,15 +19,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b9da0a3-c910-4a4a-aeb6-a5f0aec931c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/dayijiehuo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/jueshengzhonggaokao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/quyixianjiaofu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/wusanzhentilarge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/xuexizhenduan_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-mdpi/xuexizhenduan_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/default_screen_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/default_screen_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/in_layout_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/in_layout_2.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$33.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$36.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$37.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$AppWidgetResetObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$CloseSystemDialogsIntentReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$MyPreferenceChangeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$SortOnClickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher$UpdateTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/android/launcher2/Launcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
     </list>
     <ignored path="Launcher21.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -274,8 +321,8 @@
       <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.424242">
-              <caret line="1999" column="45" selection-start-line="1999" selection-start-column="45" selection-end-line="1999" selection-end-column="45" />
+            <state vertical-scroll-proportion="-6.4848485">
+              <caret line="2003" column="100" selection-start-line="2003" selection-start-column="100" selection-end-line="2003" selection-end-column="100" />
               <folding>
                 <element signature="docComment;class#Launcher#0" expanded="false" />
                 <element signature="docComment;class#State#0;class#Launcher#0" expanded="false" />
@@ -388,7 +435,7 @@
                 <element signature="e#78703#78775#0" expanded="false" />
                 <element signature="method#processShortcut#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startWallpaper#0;class#Launcher#0" expanded="false" />
-                <element signature="e#81562#81638#0" expanded="false" />
+                <element signature="e#81590#81666#0" expanded="false" />
                 <element signature="docComment;method#registerContentObservers#0;class#Launcher#0" expanded="false" />
                 <element signature="method#registerContentObservers#0;class#Launcher#0" expanded="false" />
                 <element signature="method#dispatchKeyEvent#0;class#Launcher#0" expanded="false" />
@@ -396,11 +443,11 @@
                 <element signature="docComment;method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#onClick#0;class#Launcher#0" expanded="false" />
-                <element signature="e#84450#84539#0" expanded="false" />
+                <element signature="e#84478#84567#0" expanded="false" />
                 <element signature="class#UpdateTask#0;class#Launcher#0" expanded="false" />
                 <element signature="method#doInBackground#0;class#UpdateTask#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onTouch#0;class#Launcher#0" expanded="false" />
-                <element signature="e#87851#87915#0" expanded="false" />
+                <element signature="e#87879#87943#0" expanded="false" />
                 <element signature="docComment;method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#onClickVoiceButton#0;class#Launcher#0" expanded="false" />
@@ -409,26 +456,26 @@
                 <element signature="method#onClickAppMarketButton#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startApplicationDetailsActivity#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startApplicationUninstallActivity#0;class#Launcher#0" expanded="false" />
-                <element signature="e#90952#91034#0" expanded="false" />
+                <element signature="e#90980#91062#0" expanded="false" />
                 <element signature="method#startActivity#0;class#Launcher#0" expanded="false" />
-                <element signature="e#91960#92043#0" expanded="false" />
+                <element signature="e#91988#92071#0" expanded="false" />
                 <element signature="method#startActivitySafely#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startAppWidgetConfigureActivitySafely#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startActivityForResultSafely#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
                 <element signature="method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
-                <element signature="e#98075#98161#0" expanded="false" />
-                <element signature="e#98905#98990#0" expanded="false" />
+                <element signature="e#98103#98189#0" expanded="false" />
+                <element signature="e#98933#99018#0" expanded="false" />
                 <element signature="method#growAndFadeOutFolderIcon#0;class#Launcher#0" expanded="false" />
                 <element signature="method#shrinkAndFadeInFolderIcon#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#openFolder#0;class#Launcher#0" expanded="false" />
                 <element signature="method#openFolder#0;class#Launcher#0" expanded="false" />
-                <element signature="e#102200#102274#0" expanded="false" />
-                <element signature="e#102745#102832#0" expanded="false" />
+                <element signature="e#102228#102302#0" expanded="false" />
+                <element signature="e#102773#102860#0" expanded="false" />
                 <element signature="method#closeFolder#1;class#Launcher#0" expanded="false" />
-                <element signature="e#103751#103834#0" expanded="false" />
+                <element signature="e#103779#103862#0" expanded="false" />
                 <element signature="method#onLongClick#0;class#Launcher#0" expanded="false" />
-                <element signature="e#104542#104633#0" expanded="false" />
+                <element signature="e#104570#104661#0" expanded="false" />
                 <element signature="method#isHotseatLayout#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#getCellLayout#0;class#Launcher#0" expanded="false" />
                 <element signature="method#getCellLayout#0;class#Launcher#0" expanded="false" />
@@ -447,23 +494,23 @@
                 <element signature="method#dispatchOnLauncherTransitionEnd#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
                 <element signature="method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
-                <element signature="e#114727#114791#0" expanded="false" />
-                <element signature="class#115057:116643" expanded="false" />
-                <element signature="method#onAnimationStart#0;class#115057:116643" expanded="false" />
-                <element signature="method#onAnimationEnd#0;class#115057:116643" expanded="false" />
-                <element signature="e#117076#117146#0" expanded="false" />
-                <element signature="e#117655#117705#0" expanded="false" />
+                <element signature="e#114755#114819#0" expanded="false" />
+                <element signature="class#115085:116671" expanded="false" />
+                <element signature="method#onAnimationStart#0;class#115085:116671" expanded="false" />
+                <element signature="method#onAnimationEnd#0;class#115085:116671" expanded="false" />
+                <element signature="e#117104#117174#0" expanded="false" />
+                <element signature="e#117683#117733#0" expanded="false" />
                 <element signature="docComment;method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
                 <element signature="method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onTrimMemory#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onWindowFocusChanged#0;class#Launcher#0" expanded="false" />
-                <element signature="e#124895#124978#0" expanded="false" />
+                <element signature="e#124923#125006#0" expanded="false" />
                 <element signature="method#showWorkspace#1;class#Launcher#0" expanded="false" />
-                <element signature="e#126127#126212#0" expanded="false" />
+                <element signature="e#126155#126240#0" expanded="false" />
                 <element signature="method#showAllApps#0;class#Launcher#0" expanded="false" />
                 <element signature="method#enterSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
                 <element signature="method#exitSpringLoadedDragModeDelayed#0;class#Launcher#0" expanded="false" />
-                <element signature="e#128623#128679#0" expanded="false" />
+                <element signature="e#128651#128707#0" expanded="false" />
                 <element signature="method#exitSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
                 <element signature="method#hideDockDivider#0;class#Launcher#0" expanded="false" />
                 <element signature="method#showDockDivider#0;class#Launcher#0" expanded="false" />
@@ -480,19 +527,19 @@
                 <element signature="method#getExternalPackageToolbarIcon#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateTextButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
-                <element signature="e#135935#135997#0" expanded="false" />
+                <element signature="e#135963#136025#0" expanded="false" />
                 <element signature="method#updateTextButtonWithDrawable#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateButtonWithDrawable#0;class#Launcher#0" expanded="false" />
                 <element signature="method#invalidatePressedFocusedStates#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateGlobalSearchIcon#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateGlobalSearchIcon#1;class#Launcher#0" expanded="false" />
                 <element signature="method#updateVoiceSearchIcon#0;class#Launcher#0" expanded="false" />
-                <element signature="e#140696#140767#0" expanded="false" />
+                <element signature="e#140724#140795#0" expanded="false" />
                 <element signature="method#updateVoiceSearchIcon#1;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
                 <element signature="method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
-                <element signature="e#142908#142963#0" expanded="false" />
-                <element signature="e#143578#143664#0" expanded="false" />
+                <element signature="e#142936#142991#0" expanded="false" />
+                <element signature="e#143606#143692#0" expanded="false" />
                 <element signature="method#updateAppMarketIcon#1;class#Launcher#0" expanded="false" />
                 <element signature="method#dispatchPopulateAccessibilityEvent#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;class#CloseSystemDialogsIntentReceiver#0;class#Launcher#0" expanded="false" />
@@ -507,7 +554,7 @@
                 <element signature="method#getCurrentWorkspaceScreen#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#startBinding#0;class#Launcher#0" expanded="false" />
                 <element signature="method#startBinding#0;class#Launcher#0" expanded="false" />
-                <element signature="e#148135#148218#0" expanded="false" />
+                <element signature="e#148163#148246#0" expanded="false" />
                 <element signature="docComment;method#bindItems#0;class#Launcher#0" expanded="false" />
                 <element signature="method#bindItems#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#bindFolders#0;class#Launcher#0" expanded="false" />
@@ -515,21 +562,21 @@
                 <element signature="method#bindAppWidget#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#finishBindingItems#0;class#Launcher#0" expanded="false" />
                 <element signature="method#finishBindingItems#0;class#Launcher#0" expanded="false" />
-                <element signature="e#154605#154692#0" expanded="false" />
-                <element signature="e#154934#155024#0" expanded="false" />
-                <element signature="e#155605#155689#0" expanded="false" />
-                <element signature="e#156040#156120#0" expanded="false" />
+                <element signature="e#154633#154720#0" expanded="false" />
+                <element signature="e#154962#155052#0" expanded="false" />
+                <element signature="e#155633#155717#0" expanded="false" />
+                <element signature="e#156068#156148#0" expanded="false" />
                 <element signature="method#canRunNewAppsAnimation#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
                 <element signature="method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
-                <element signature="class#159141:159476" expanded="false" />
-                <element signature="method#run#0;class#159141:159476" expanded="false" />
+                <element signature="class#159169:159504" expanded="false" />
+                <element signature="method#run#0;class#159169:159504" expanded="false" />
                 <element signature="method#bindSearchablesChanged#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#bindAllApplications#0;class#Launcher#0" expanded="false" />
                 <element signature="method#bindAllApplications#0;class#Launcher#0" expanded="false" />
-                <element signature="e#160829#160892#0" expanded="false" />
-                <element signature="e#161200#161269#0" expanded="false" />
-                <element signature="e#161479#161560#0" expanded="false" />
+                <element signature="e#160857#160920#0" expanded="false" />
+                <element signature="e#161228#161297#0" expanded="false" />
+                <element signature="e#161507#161588#0" expanded="false" />
                 <element signature="docComment;method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
                 <element signature="method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
                 <element signature="docComment;method#bindAppsUpdated#0;class#Launcher#0" expanded="false" />
@@ -539,21 +586,21 @@
                 <element signature="docComment;field#mWidgetsAndShortcuts#0;class#Launcher#0" expanded="false" />
                 <element signature="method#bindPackagesUpdated#0;class#Launcher#0" expanded="false" />
                 <element signature="method#mapConfigurationOriActivityInfoOri#0;class#Launcher#0" expanded="false" />
-                <element signature="e#166217#166308#0" expanded="false" />
+                <element signature="e#166245#166336#0" expanded="false" />
                 <element signature="method#isRotationEnabled#0;class#Launcher#0" expanded="false" />
                 <element signature="method#lockScreenOrientation#0;class#Launcher#0" expanded="false" />
                 <element signature="method#unlockScreenOrientation#0;class#Launcher#0" expanded="false" />
                 <element signature="method#isClingsEnabled#0;class#Launcher#0" expanded="false" />
-                <element signature="e#167691#167769#0" expanded="false" />
+                <element signature="e#167719#167797#0" expanded="false" />
                 <element signature="method#initCling#0;class#Launcher#0" expanded="false" />
                 <element signature="method#dismissCling#0;class#Launcher#0" expanded="false" />
-                <element signature="e#169949#170039#0" expanded="false" />
-                <element signature="class#170620:170929" expanded="false" />
-                <element signature="method#run#0;class#170620:170929" expanded="false" />
+                <element signature="e#169977#170067#0" expanded="false" />
+                <element signature="class#170648:170957" expanded="false" />
+                <element signature="method#run#0;class#170648:170957" expanded="false" />
                 <element signature="method#removeCling#0;class#Launcher#0" expanded="false" />
                 <element signature="method#skipCustomClingIfNoAccounts#0;class#Launcher#0" expanded="false" />
                 <element signature="method#showFirstRunWorkspaceCling#0;class#Launcher#0" expanded="false" />
-                <element signature="e#172312#172387#0" expanded="false" />
+                <element signature="e#172340#172415#0" expanded="false" />
                 <element signature="method#showFirstRunAllAppsCling#0;class#Launcher#0" expanded="false" />
                 <element signature="method#showFirstRunFoldersCling#0;class#Launcher#0" expanded="false" />
                 <element signature="method#isFolderClingVisible#0;class#Launcher#0" expanded="false" />
@@ -564,13 +611,33 @@
                 <element signature="method#dump#0;class#Launcher#0" expanded="false" />
                 <element signature="method#addAppInfo#0;class#Launcher#0" expanded="false" />
                 <element signature="method#removeAppInfo#0;class#Launcher#0" expanded="false" />
-                <element signature="e#177612#177672#0" expanded="false" />
+                <element signature="e#177640#177700#0" expanded="false" />
                 <element signature="method#onClick#0;class#SortOnClickListener#0;class#Launcher#0" expanded="false" />
                 <element signature="class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
                 <element signature="method#onSharedPreferenceChanged#0;class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
                 <element signature="method#dumpDebugLogsToConsole#0;class#Launcher#0" expanded="false" />
                 <element signature="class#LauncherTransitionable#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.967742">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14420062">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -643,14 +710,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="in_layout_2.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="in_layout_2.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5248447">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state vertical-scroll-proportion="-7.2647057">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -660,19 +727,15 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#590#598#0" expanded="true" />
-                <element signature="e#663#673#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1147#1148#0" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1281#1282#0" expanded="true" />
-                <element signature="e#1995#1996#0" expanded="true" />
-                <element signature="e#2036#2037#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1967,7 +2030,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/test_screen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/testlayout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-sw720dp/launcher.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/default_screen_2.xml" />
@@ -1976,10 +2038,12 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout-sw720dp/search_bar.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/testicon.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/.gitignore" />
       </list>
     </option>
   </component>
@@ -2592,7 +2656,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2600,16 +2664,16 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19654427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24298055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20410368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18682505" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2166205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2166205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2640,203 +2704,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Workspace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2783" column="22" selection-start-line="2783" selection-start-column="16" selection-end-line="2783" selection-end-column="22" />
-          <folding>
-            <element signature="docComment;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mDragInfo#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mTargetCell#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mDragTargetLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mDropToLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="e#5784#5860#0" expanded="false" />
-            <element signature="class#State#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;field#mInScrollArea#0;class#Workspace#0" expanded="false" />
-            <element signature="class#WallpaperVerticalOffset#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#Workspace#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#Workspace#1;class#Workspace#0" expanded="false" />
-            <element signature="e#11871#11918#0" expanded="false" />
-            <element signature="method#estimateItemSize#0;class#Workspace#0" expanded="false" />
-            <element signature="method#estimateItemPosition#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragStart#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragEnd#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#initWorkspace#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onChildViewAdded#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onChildViewRemoved#0;class#Workspace#0" expanded="false" />
-            <element signature="method#shouldDrawChild#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getOpenFolder#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#addInScreen#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#addInScreen#1;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#hitsPage#0;class#Workspace#0" expanded="false" />
-            <element signature="method#hitsPage#0;class#Workspace#0" expanded="false" />
-            <element signature="method#hitsPreviousPage#0;class#Workspace#0" expanded="false" />
-            <element signature="method#hitsNextPage#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#onTouch#0;class#Workspace#0" expanded="false" />
-            <element signature="method#isFinishedSwitchingState#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onWindowVisibilityChanged#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onInterceptTouchEvent#0;class#Workspace#0" expanded="false" />
-            <element signature="method#determineScrollingStart#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onPageEndMoving#0;class#Workspace#0" expanded="false" />
-            <element signature="method#notifyPageSwitchListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#wallpaperTravelToScreenWidthRatio#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setWallpaperDimension#0;class#Workspace#0" expanded="false" />
-            <element signature="method#wallpaperOffsetForCurrentScroll#0;class#Workspace#0" expanded="false" />
-            <element signature="method#syncWallpaperOffsetWithScroll#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updateWallpaperOffsets#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updateCurrentPageScroll#0;class#Workspace#0" expanded="false" />
-            <element signature="method#snapToPage#0;class#Workspace#0" expanded="false" />
-            <element signature="method#snapToPage#1;class#Workspace#0" expanded="false" />
-            <element signature="method#snapToPage#2;class#Workspace#0" expanded="false" />
-            <element signature="method#computeWallpaperScrollRatio#0;class#Workspace#0" expanded="false" />
-            <element signature="method#WallpaperOffsetInterpolator#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setOverrideHorizontalCatchupConstant#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setFinalX#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setFinalY#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#jumpToFinal#0;class#WallpaperOffsetInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#computeScroll#0;class#Workspace#0" expanded="false" />
-            <element signature="method#showOutlines#0;class#Workspace#0" expanded="false" />
-            <element signature="method#hideOutlines#0;class#Workspace#0" expanded="false" />
-            <element signature="method#showOutlinesTemporarily#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setChildrenOutlineAlpha#0;class#Workspace#0" expanded="false" />
-            <element signature="method#animateBackgroundGradient#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setBackgroundAlpha#0;class#Workspace#0" expanded="false" />
-            <element signature="method#backgroundAlphaInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updatePageAlphaValues#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setChildrenBackgroundAlphaMultipliers#0;class#Workspace#0" expanded="false" />
-            <element signature="method#screenScrolled#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onAttachedToWindow#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDetachedFromWindow#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDraw#0;class#Workspace#0" expanded="false" />
-            <element signature="method#isDrawingBackgroundGradient#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onRequestFocusInDescendants#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getDescendantFocusability#0;class#Workspace#0" expanded="false" />
-            <element signature="method#addFocusables#0;class#Workspace#0" expanded="false" />
-            <element signature="method#enableChildrenCache#0;class#Workspace#0" expanded="false" />
-            <element signature="method#clearChildrenCache#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updateChildrenLayersEnabled#0;class#Workspace#0" expanded="false" />
-            <element signature="method#enableHwLayersOnVisiblePages#0;class#Workspace#0" expanded="false" />
-            <element signature="method#buildPageHardwareLayers#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onWallpaperTap#0;class#Workspace#0" expanded="false" />
-            <element signature="class#ZInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getInterpolation#0;class#ZInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getInterpolation#0;class#InverseZInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getInterpolation#0;class#ZoomOutInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getInterpolation#0;class#ZoomInInterpolator#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragStartedWithItem#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragStartedWithItem#1;class#Workspace#0" expanded="false" />
-            <element signature="method#exitWidgetResizeMode#0;class#Workspace#0" expanded="false" />
-            <element signature="method#initAnimationArrays#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getChangeStateAnimation#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getChangeStateAnimation#1;class#Workspace#0" expanded="false" />
-            <element signature="method#onLauncherTransitionPrepare#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onLauncherTransitionStart#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onLauncherTransitionEnd#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#drawDragView#0;class#Workspace#0" expanded="false" />
-            <element signature="method#drawDragView#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#createDragBitmap#0;class#Workspace#0" expanded="false" />
-            <element signature="method#createDragBitmap#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#createDragOutline#0;class#Workspace#0" expanded="false" />
-            <element signature="method#createDragOutline#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#createDragOutline#1;class#Workspace#0" expanded="false" />
-            <element signature="method#createDragOutline#1;class#Workspace#0" expanded="false" />
-            <element signature="method#startDrag#0;class#Workspace#0" expanded="false" />
-            <element signature="method#beginDragShared#0;class#Workspace#0" expanded="false" />
-            <element signature="method#addApplicationShortcut#0;class#Workspace#0" expanded="false" />
-            <element signature="method#transitionStateShouldAllowDrop#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#acceptDrop#0;class#Workspace#0" expanded="false" />
-            <element signature="method#acceptDrop#0;class#Workspace#0" expanded="false" />
-            <element signature="method#willCreateUserFolder#0;class#Workspace#0" expanded="false" />
-            <element signature="method#willAddToExistingUserFolder#0;class#Workspace#0" expanded="false" />
-            <element signature="method#createUserFolderIfNecessary#0;class#Workspace#0" expanded="false" />
-            <element signature="method#addToExistingFolderIfNecessary#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
-            <element signature="method#resetFinalScrollForPageChange#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getViewLocationRelativeToSelf#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragEnter#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getCellLayoutMetrics#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDragExit#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setCurrentDropLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setCurrentDragOverlappingLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setCurrentDropOverCell#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setDragMode#0;class#Workspace#0" expanded="false" />
-            <element signature="method#cleanupFolderCreation#0;class#Workspace#0" expanded="false" />
-            <element signature="method#cleanupAddToFolder#0;class#Workspace#0" expanded="false" />
-            <element signature="method#cleanupReorder#0;class#Workspace#0" expanded="false" />
-            <element signature="method#mapPointFromSelfToChild#1;class#Workspace#0" expanded="false" />
-            <element signature="method#mapPointFromSelfToHotseatLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="method#mapPointFromChildToSelf#0;class#Workspace#0" expanded="false" />
-            <element signature="method#squaredDistance#0;class#Workspace#0" expanded="false" />
-            <element signature="method#overlaps#0;class#Workspace#0" expanded="false" />
-            <element signature="method#findMatchingPageForDragOver#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getDragViewVisualCenter#0;class#Workspace#0" expanded="false" />
-            <element signature="method#isDragWidget#0;class#Workspace#0" expanded="false" />
-            <element signature="method#isExternalDragWidget#0;class#Workspace#0" expanded="false" />
-            <element signature="method#manageFolderFeedback#0;class#Workspace#0" expanded="false" />
-            <element signature="class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#FolderCreationAlarmListener#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onAlarm#0;class#FolderCreationAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#ReorderAlarmListener#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onAlarm#0;class#ReorderAlarmListener#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getHitRect#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
-            <element signature="method#addExternalItemToScreen#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDropExternal#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#onDropExternal#1;class#Workspace#0" expanded="false" />
-            <element signature="method#createWidgetBitmap#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getFinalPositionForDropAnimation#0;class#Workspace#0" expanded="false" />
-            <element signature="method#animateWidgetDrop#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setFinalTransitionTransform#0;class#Workspace#0" expanded="false" />
-            <element signature="method#resetTransitionTransform#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getCurrentDropLayout#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getDragInfo#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#findNearestArea#0;class#Workspace#0" expanded="false" />
-            <element signature="method#findNearestArea#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setup#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#onDropCompleted#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onDropCompleted#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updateItemLocationsInDatabase#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onFlingToDelete#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onFlingToDeleteCompleted#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onRestoreInstanceState#0;class#Workspace#0" expanded="false" />
-            <element signature="method#restoreInstanceStateForChild#0;class#Workspace#0" expanded="false" />
-            <element signature="method#restoreInstanceStateForRemainingPages#0;class#Workspace#0" expanded="false" />
-            <element signature="method#scrollLeft#0;class#Workspace#0" expanded="false" />
-            <element signature="method#scrollRight#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onEnterScrollArea#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onExitScrollArea#0;class#Workspace#0" expanded="false" />
-            <element signature="method#onResetScrollArea#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getParentCellLayoutForView#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getWorkspaceAndHotseatCellLayouts#0;class#Workspace#0" expanded="false" />
-            <element signature="docComment;method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getAllShortcutAndWidgetContainers#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getFolderForTag#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getViewForTag#0;class#Workspace#0" expanded="false" />
-            <element signature="method#clearDropTargets#0;class#Workspace#0" expanded="false" />
-            <element signature="method#removeItemsByPackageName#0;class#Workspace#0" expanded="false" />
-            <element signature="method#removeItemsByApplicationInfo#0;class#Workspace#0" expanded="false" />
-            <element signature="method#removeItemsByComponentName#0;class#Workspace#0" expanded="false" />
-            <element signature="method#updateShortcuts#0;class#Workspace#0" expanded="false" />
-            <element signature="method#moveToDefaultScreen#0;class#Workspace#0" expanded="false" />
-            <element signature="method#syncPages#0;class#Workspace#0" expanded="false" />
-            <element signature="method#syncPageItems#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getCurrentPageDescription#0;class#Workspace#0" expanded="false" />
-            <element signature="method#getLocationInDragLayer#0;class#Workspace#0" expanded="false" />
-            <element signature="method#setFadeForOverScroll#0;class#Workspace#0" expanded="false" />
-            <element signature="method#insertNewWorkspaceScreen#0;class#Workspace#0" expanded="false" />
-            <element signature="method#insertNewWorkspaceScreen#1;class#Workspace#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/DragLayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3066,7 +2933,7 @@
             <element signature="e#78703#78775#0" expanded="false" />
             <element signature="method#processShortcut#0;class#Launcher#0" expanded="false" />
             <element signature="method#startWallpaper#0;class#Launcher#0" expanded="false" />
-            <element signature="e#81562#81638#0" expanded="false" />
+            <element signature="e#81590#81666#0" expanded="false" />
             <element signature="docComment;method#registerContentObservers#0;class#Launcher#0" expanded="false" />
             <element signature="method#registerContentObservers#0;class#Launcher#0" expanded="false" />
             <element signature="method#dispatchKeyEvent#0;class#Launcher#0" expanded="false" />
@@ -3074,11 +2941,11 @@
             <element signature="docComment;method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
             <element signature="method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#onClick#0;class#Launcher#0" expanded="false" />
-            <element signature="e#84450#84539#0" expanded="false" />
+            <element signature="e#84478#84567#0" expanded="false" />
             <element signature="class#UpdateTask#0;class#Launcher#0" expanded="false" />
             <element signature="method#doInBackground#0;class#UpdateTask#0;class#Launcher#0" expanded="false" />
             <element signature="method#onTouch#0;class#Launcher#0" expanded="false" />
-            <element signature="e#87851#87915#0" expanded="false" />
+            <element signature="e#87879#87943#0" expanded="false" />
             <element signature="docComment;method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
             <element signature="method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#onClickVoiceButton#0;class#Launcher#0" expanded="false" />
@@ -3087,26 +2954,26 @@
             <element signature="method#onClickAppMarketButton#0;class#Launcher#0" expanded="false" />
             <element signature="method#startApplicationDetailsActivity#0;class#Launcher#0" expanded="false" />
             <element signature="method#startApplicationUninstallActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#90952#91034#0" expanded="false" />
+            <element signature="e#90980#91062#0" expanded="false" />
             <element signature="method#startActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#91960#92043#0" expanded="false" />
+            <element signature="e#91988#92071#0" expanded="false" />
             <element signature="method#startActivitySafely#0;class#Launcher#0" expanded="false" />
             <element signature="method#startAppWidgetConfigureActivitySafely#0;class#Launcher#0" expanded="false" />
             <element signature="method#startActivityForResultSafely#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
             <element signature="method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
-            <element signature="e#98075#98161#0" expanded="false" />
-            <element signature="e#98905#98990#0" expanded="false" />
+            <element signature="e#98103#98189#0" expanded="false" />
+            <element signature="e#98933#99018#0" expanded="false" />
             <element signature="method#growAndFadeOutFolderIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#shrinkAndFadeInFolderIcon#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#openFolder#0;class#Launcher#0" expanded="false" />
             <element signature="method#openFolder#0;class#Launcher#0" expanded="false" />
-            <element signature="e#102200#102274#0" expanded="false" />
-            <element signature="e#102745#102832#0" expanded="false" />
+            <element signature="e#102228#102302#0" expanded="false" />
+            <element signature="e#102773#102860#0" expanded="false" />
             <element signature="method#closeFolder#1;class#Launcher#0" expanded="false" />
-            <element signature="e#103751#103834#0" expanded="false" />
+            <element signature="e#103779#103862#0" expanded="false" />
             <element signature="method#onLongClick#0;class#Launcher#0" expanded="false" />
-            <element signature="e#104542#104633#0" expanded="false" />
+            <element signature="e#104570#104661#0" expanded="false" />
             <element signature="method#isHotseatLayout#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#getCellLayout#0;class#Launcher#0" expanded="false" />
             <element signature="method#getCellLayout#0;class#Launcher#0" expanded="false" />
@@ -3125,23 +2992,23 @@
             <element signature="method#dispatchOnLauncherTransitionEnd#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
-            <element signature="e#114727#114791#0" expanded="false" />
-            <element signature="class#115057:116643" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#115057:116643" expanded="false" />
-            <element signature="method#onAnimationEnd#0;class#115057:116643" expanded="false" />
-            <element signature="e#117076#117146#0" expanded="false" />
-            <element signature="e#117655#117705#0" expanded="false" />
+            <element signature="e#114755#114819#0" expanded="false" />
+            <element signature="class#115085:116671" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#115085:116671" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#115085:116671" expanded="false" />
+            <element signature="e#117104#117174#0" expanded="false" />
+            <element signature="e#117683#117733#0" expanded="false" />
             <element signature="docComment;method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#onTrimMemory#0;class#Launcher#0" expanded="false" />
             <element signature="method#onWindowFocusChanged#0;class#Launcher#0" expanded="false" />
-            <element signature="e#124895#124978#0" expanded="false" />
+            <element signature="e#124923#125006#0" expanded="false" />
             <element signature="method#showWorkspace#1;class#Launcher#0" expanded="false" />
-            <element signature="e#126127#126212#0" expanded="false" />
+            <element signature="e#126155#126240#0" expanded="false" />
             <element signature="method#showAllApps#0;class#Launcher#0" expanded="false" />
             <element signature="method#enterSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
             <element signature="method#exitSpringLoadedDragModeDelayed#0;class#Launcher#0" expanded="false" />
-            <element signature="e#128623#128679#0" expanded="false" />
+            <element signature="e#128651#128707#0" expanded="false" />
             <element signature="method#exitSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
             <element signature="method#hideDockDivider#0;class#Launcher#0" expanded="false" />
             <element signature="method#showDockDivider#0;class#Launcher#0" expanded="false" />
@@ -3158,19 +3025,19 @@
             <element signature="method#getExternalPackageToolbarIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateTextButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#135935#135997#0" expanded="false" />
+            <element signature="e#135963#136025#0" expanded="false" />
             <element signature="method#updateTextButtonWithDrawable#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateButtonWithDrawable#0;class#Launcher#0" expanded="false" />
             <element signature="method#invalidatePressedFocusedStates#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateGlobalSearchIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateGlobalSearchIcon#1;class#Launcher#0" expanded="false" />
             <element signature="method#updateVoiceSearchIcon#0;class#Launcher#0" expanded="false" />
-            <element signature="e#140696#140767#0" expanded="false" />
+            <element signature="e#140724#140795#0" expanded="false" />
             <element signature="method#updateVoiceSearchIcon#1;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
-            <element signature="e#142908#142963#0" expanded="false" />
-            <element signature="e#143578#143664#0" expanded="false" />
+            <element signature="e#142936#142991#0" expanded="false" />
+            <element signature="e#143606#143692#0" expanded="false" />
             <element signature="method#updateAppMarketIcon#1;class#Launcher#0" expanded="false" />
             <element signature="method#dispatchPopulateAccessibilityEvent#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;class#CloseSystemDialogsIntentReceiver#0;class#Launcher#0" expanded="false" />
@@ -3185,7 +3052,7 @@
             <element signature="method#getCurrentWorkspaceScreen#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#startBinding#0;class#Launcher#0" expanded="false" />
             <element signature="method#startBinding#0;class#Launcher#0" expanded="false" />
-            <element signature="e#148135#148218#0" expanded="false" />
+            <element signature="e#148163#148246#0" expanded="false" />
             <element signature="docComment;method#bindItems#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindItems#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindFolders#0;class#Launcher#0" expanded="false" />
@@ -3193,21 +3060,21 @@
             <element signature="method#bindAppWidget#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#finishBindingItems#0;class#Launcher#0" expanded="false" />
             <element signature="method#finishBindingItems#0;class#Launcher#0" expanded="false" />
-            <element signature="e#154605#154692#0" expanded="false" />
-            <element signature="e#154934#155024#0" expanded="false" />
-            <element signature="e#155605#155689#0" expanded="false" />
-            <element signature="e#156040#156120#0" expanded="false" />
+            <element signature="e#154633#154720#0" expanded="false" />
+            <element signature="e#154962#155052#0" expanded="false" />
+            <element signature="e#155633#155717#0" expanded="false" />
+            <element signature="e#156068#156148#0" expanded="false" />
             <element signature="method#canRunNewAppsAnimation#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
             <element signature="method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
-            <element signature="class#159141:159476" expanded="false" />
-            <element signature="method#run#0;class#159141:159476" expanded="false" />
+            <element signature="class#159169:159504" expanded="false" />
+            <element signature="method#run#0;class#159169:159504" expanded="false" />
             <element signature="method#bindSearchablesChanged#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindAllApplications#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindAllApplications#0;class#Launcher#0" expanded="false" />
-            <element signature="e#160829#160892#0" expanded="false" />
-            <element signature="e#161200#161269#0" expanded="false" />
-            <element signature="e#161479#161560#0" expanded="false" />
+            <element signature="e#160857#160920#0" expanded="false" />
+            <element signature="e#161228#161297#0" expanded="false" />
+            <element signature="e#161507#161588#0" expanded="false" />
             <element signature="docComment;method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindAppsUpdated#0;class#Launcher#0" expanded="false" />
@@ -3217,21 +3084,21 @@
             <element signature="docComment;field#mWidgetsAndShortcuts#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindPackagesUpdated#0;class#Launcher#0" expanded="false" />
             <element signature="method#mapConfigurationOriActivityInfoOri#0;class#Launcher#0" expanded="false" />
-            <element signature="e#166217#166308#0" expanded="false" />
+            <element signature="e#166245#166336#0" expanded="false" />
             <element signature="method#isRotationEnabled#0;class#Launcher#0" expanded="false" />
             <element signature="method#lockScreenOrientation#0;class#Launcher#0" expanded="false" />
             <element signature="method#unlockScreenOrientation#0;class#Launcher#0" expanded="false" />
             <element signature="method#isClingsEnabled#0;class#Launcher#0" expanded="false" />
-            <element signature="e#167691#167769#0" expanded="false" />
+            <element signature="e#167719#167797#0" expanded="false" />
             <element signature="method#initCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#dismissCling#0;class#Launcher#0" expanded="false" />
-            <element signature="e#169949#170039#0" expanded="false" />
-            <element signature="class#170620:170929" expanded="false" />
-            <element signature="method#run#0;class#170620:170929" expanded="false" />
+            <element signature="e#169977#170067#0" expanded="false" />
+            <element signature="class#170648:170957" expanded="false" />
+            <element signature="method#run#0;class#170648:170957" expanded="false" />
             <element signature="method#removeCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#skipCustomClingIfNoAccounts#0;class#Launcher#0" expanded="false" />
             <element signature="method#showFirstRunWorkspaceCling#0;class#Launcher#0" expanded="false" />
-            <element signature="e#172312#172387#0" expanded="false" />
+            <element signature="e#172340#172415#0" expanded="false" />
             <element signature="method#showFirstRunAllAppsCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#showFirstRunFoldersCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#isFolderClingVisible#0;class#Launcher#0" expanded="false" />
@@ -3242,7 +3109,7 @@
             <element signature="method#dump#0;class#Launcher#0" expanded="false" />
             <element signature="method#addAppInfo#0;class#Launcher#0" expanded="false" />
             <element signature="method#removeAppInfo#0;class#Launcher#0" expanded="false" />
-            <element signature="e#177612#177672#0" expanded="false" />
+            <element signature="e#177640#177700#0" expanded="false" />
             <element signature="method#onClick#0;class#SortOnClickListener#0;class#Launcher#0" expanded="false" />
             <element signature="class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
             <element signature="method#onSharedPreferenceChanged#0;class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
@@ -3519,13 +3386,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15316643">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/launcher.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2525399">
@@ -3727,14 +3587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3599034">
           <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Folder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="399" column="74" selection-start-line="399" selection-start-column="74" selection-end-line="399" selection-end-column="74" />
           <folding />
         </state>
       </provider>
@@ -3995,10 +3847,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/folder_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.606414">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="53" />
+          <folding>
+            <element signature="e#1166#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="95" selection-start-line="39" selection-start-column="95" selection-end-line="39" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2058825">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2647057">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Folder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="399" column="74" selection-start-line="399" selection-start-column="74" selection-end-line="399" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="75" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="75" />
+          <folding>
+            <element signature="docComment;class#FolderIcon#0" expanded="false" />
+            <element signature="method#FolderIcon#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#FolderIcon#1;class#FolderIcon#0" expanded="false" />
+            <element signature="method#isDropEnabled#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onSaveInstanceState#0;class#FolderIcon#0" expanded="false" />
+            <element signature="class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#FolderRingAnimator#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#7270#7352#0" expanded="false" />
+            <element signature="method#animateToAcceptState#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#animateToNaturalState#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#getCell#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#setCell#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#willAcceptItem#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#acceptDrop#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onDragEnter#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onDragOver#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#performCreateAnimation#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#13156#13230#0" expanded="false" />
+            <element signature="method#performDestroyAnimation#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#13889#13963#0" expanded="false" />
+            <element signature="method#onDrop#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#14567#14656#0" expanded="false" />
+            <element signature="method#onDrop#1;class#FolderIcon#0" expanded="false" />
+            <element signature="method#computePreviewDrawingParams#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#computePreviewDrawingParams#1;class#FolderIcon#0" expanded="false" />
+            <element signature="class#PreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#PreviewItemDrawingParams#0;class#PreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#getLocalCenterForIndex#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#computePreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#20360#20441#0" expanded="false" />
+            <element signature="method#drawPreviewItem#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#dispatchDraw#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#animateFirstItem#0;class#FolderIcon#0" expanded="false" />
+            <element signature="class#24267:24685" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#24267:24685" expanded="false" />
+            <element signature="method#setTextVisible#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onItemsChanged#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onAdd#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onRemove#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onTitleChanged#0;class#FolderIcon#0" expanded="false" />
+            <element signature="method#onTouchEvent#0;class#FolderIcon#0" expanded="false" />
+            <element signature="e#25644#25728#0" expanded="false" />
+            <element signature="method#cancelLongPress#0;class#FolderIcon#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.424242">
-          <caret line="1999" column="45" selection-start-line="1999" selection-start-column="45" selection-end-line="1999" selection-end-column="45" />
+        <state vertical-scroll-proportion="-6.4848485">
+          <caret line="2003" column="100" selection-start-line="2003" selection-start-column="100" selection-end-line="2003" selection-end-column="100" />
           <folding>
             <element signature="docComment;class#Launcher#0" expanded="false" />
             <element signature="docComment;class#State#0;class#Launcher#0" expanded="false" />
@@ -4111,7 +4086,7 @@
             <element signature="e#78703#78775#0" expanded="false" />
             <element signature="method#processShortcut#0;class#Launcher#0" expanded="false" />
             <element signature="method#startWallpaper#0;class#Launcher#0" expanded="false" />
-            <element signature="e#81562#81638#0" expanded="false" />
+            <element signature="e#81590#81666#0" expanded="false" />
             <element signature="docComment;method#registerContentObservers#0;class#Launcher#0" expanded="false" />
             <element signature="method#registerContentObservers#0;class#Launcher#0" expanded="false" />
             <element signature="method#dispatchKeyEvent#0;class#Launcher#0" expanded="false" />
@@ -4119,11 +4094,11 @@
             <element signature="docComment;method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
             <element signature="method#onAppWidgetReset#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#onClick#0;class#Launcher#0" expanded="false" />
-            <element signature="e#84450#84539#0" expanded="false" />
+            <element signature="e#84478#84567#0" expanded="false" />
             <element signature="class#UpdateTask#0;class#Launcher#0" expanded="false" />
             <element signature="method#doInBackground#0;class#UpdateTask#0;class#Launcher#0" expanded="false" />
             <element signature="method#onTouch#0;class#Launcher#0" expanded="false" />
-            <element signature="e#87851#87915#0" expanded="false" />
+            <element signature="e#87879#87943#0" expanded="false" />
             <element signature="docComment;method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
             <element signature="method#onClickSearchButton#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#onClickVoiceButton#0;class#Launcher#0" expanded="false" />
@@ -4132,26 +4107,26 @@
             <element signature="method#onClickAppMarketButton#0;class#Launcher#0" expanded="false" />
             <element signature="method#startApplicationDetailsActivity#0;class#Launcher#0" expanded="false" />
             <element signature="method#startApplicationUninstallActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#90952#91034#0" expanded="false" />
+            <element signature="e#90980#91062#0" expanded="false" />
             <element signature="method#startActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#91960#92043#0" expanded="false" />
+            <element signature="e#91988#92071#0" expanded="false" />
             <element signature="method#startActivitySafely#0;class#Launcher#0" expanded="false" />
             <element signature="method#startAppWidgetConfigureActivitySafely#0;class#Launcher#0" expanded="false" />
             <element signature="method#startActivityForResultSafely#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
             <element signature="method#copyFolderIconToImage#0;class#Launcher#0" expanded="false" />
-            <element signature="e#98075#98161#0" expanded="false" />
-            <element signature="e#98905#98990#0" expanded="false" />
+            <element signature="e#98103#98189#0" expanded="false" />
+            <element signature="e#98933#99018#0" expanded="false" />
             <element signature="method#growAndFadeOutFolderIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#shrinkAndFadeInFolderIcon#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#openFolder#0;class#Launcher#0" expanded="false" />
             <element signature="method#openFolder#0;class#Launcher#0" expanded="false" />
-            <element signature="e#102200#102274#0" expanded="false" />
-            <element signature="e#102745#102832#0" expanded="false" />
+            <element signature="e#102228#102302#0" expanded="false" />
+            <element signature="e#102773#102860#0" expanded="false" />
             <element signature="method#closeFolder#1;class#Launcher#0" expanded="false" />
-            <element signature="e#103751#103834#0" expanded="false" />
+            <element signature="e#103779#103862#0" expanded="false" />
             <element signature="method#onLongClick#0;class#Launcher#0" expanded="false" />
-            <element signature="e#104542#104633#0" expanded="false" />
+            <element signature="e#104570#104661#0" expanded="false" />
             <element signature="method#isHotseatLayout#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#getCellLayout#0;class#Launcher#0" expanded="false" />
             <element signature="method#getCellLayout#0;class#Launcher#0" expanded="false" />
@@ -4170,23 +4145,23 @@
             <element signature="method#dispatchOnLauncherTransitionEnd#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#showAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
-            <element signature="e#114727#114791#0" expanded="false" />
-            <element signature="class#115057:116643" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#115057:116643" expanded="false" />
-            <element signature="method#onAnimationEnd#0;class#115057:116643" expanded="false" />
-            <element signature="e#117076#117146#0" expanded="false" />
-            <element signature="e#117655#117705#0" expanded="false" />
+            <element signature="e#114755#114819#0" expanded="false" />
+            <element signature="class#115085:116671" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#115085:116671" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#115085:116671" expanded="false" />
+            <element signature="e#117104#117174#0" expanded="false" />
+            <element signature="e#117683#117733#0" expanded="false" />
             <element signature="docComment;method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#hideAppsCustomizeHelper#0;class#Launcher#0" expanded="false" />
             <element signature="method#onTrimMemory#0;class#Launcher#0" expanded="false" />
             <element signature="method#onWindowFocusChanged#0;class#Launcher#0" expanded="false" />
-            <element signature="e#124895#124978#0" expanded="false" />
+            <element signature="e#124923#125006#0" expanded="false" />
             <element signature="method#showWorkspace#1;class#Launcher#0" expanded="false" />
-            <element signature="e#126127#126212#0" expanded="false" />
+            <element signature="e#126155#126240#0" expanded="false" />
             <element signature="method#showAllApps#0;class#Launcher#0" expanded="false" />
             <element signature="method#enterSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
             <element signature="method#exitSpringLoadedDragModeDelayed#0;class#Launcher#0" expanded="false" />
-            <element signature="e#128623#128679#0" expanded="false" />
+            <element signature="e#128651#128707#0" expanded="false" />
             <element signature="method#exitSpringLoadedDragMode#0;class#Launcher#0" expanded="false" />
             <element signature="method#hideDockDivider#0;class#Launcher#0" expanded="false" />
             <element signature="method#showDockDivider#0;class#Launcher#0" expanded="false" />
@@ -4203,19 +4178,19 @@
             <element signature="method#getExternalPackageToolbarIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateTextButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateButtonWithIconFromExternalActivity#0;class#Launcher#0" expanded="false" />
-            <element signature="e#135935#135997#0" expanded="false" />
+            <element signature="e#135963#136025#0" expanded="false" />
             <element signature="method#updateTextButtonWithDrawable#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateButtonWithDrawable#0;class#Launcher#0" expanded="false" />
             <element signature="method#invalidatePressedFocusedStates#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateGlobalSearchIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateGlobalSearchIcon#1;class#Launcher#0" expanded="false" />
             <element signature="method#updateVoiceSearchIcon#0;class#Launcher#0" expanded="false" />
-            <element signature="e#140696#140767#0" expanded="false" />
+            <element signature="e#140724#140795#0" expanded="false" />
             <element signature="method#updateVoiceSearchIcon#1;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
             <element signature="method#updateAppMarketIcon#0;class#Launcher#0" expanded="false" />
-            <element signature="e#142908#142963#0" expanded="false" />
-            <element signature="e#143578#143664#0" expanded="false" />
+            <element signature="e#142936#142991#0" expanded="false" />
+            <element signature="e#143606#143692#0" expanded="false" />
             <element signature="method#updateAppMarketIcon#1;class#Launcher#0" expanded="false" />
             <element signature="method#dispatchPopulateAccessibilityEvent#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;class#CloseSystemDialogsIntentReceiver#0;class#Launcher#0" expanded="false" />
@@ -4230,7 +4205,7 @@
             <element signature="method#getCurrentWorkspaceScreen#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#startBinding#0;class#Launcher#0" expanded="false" />
             <element signature="method#startBinding#0;class#Launcher#0" expanded="false" />
-            <element signature="e#148135#148218#0" expanded="false" />
+            <element signature="e#148163#148246#0" expanded="false" />
             <element signature="docComment;method#bindItems#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindItems#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindFolders#0;class#Launcher#0" expanded="false" />
@@ -4238,21 +4213,21 @@
             <element signature="method#bindAppWidget#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#finishBindingItems#0;class#Launcher#0" expanded="false" />
             <element signature="method#finishBindingItems#0;class#Launcher#0" expanded="false" />
-            <element signature="e#154605#154692#0" expanded="false" />
-            <element signature="e#154934#155024#0" expanded="false" />
-            <element signature="e#155605#155689#0" expanded="false" />
-            <element signature="e#156040#156120#0" expanded="false" />
+            <element signature="e#154633#154720#0" expanded="false" />
+            <element signature="e#154962#155052#0" expanded="false" />
+            <element signature="e#155633#155717#0" expanded="false" />
+            <element signature="e#156068#156148#0" expanded="false" />
             <element signature="method#canRunNewAppsAnimation#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
             <element signature="method#runNewAppsAnimation#0;class#Launcher#0" expanded="false" />
-            <element signature="class#159141:159476" expanded="false" />
-            <element signature="method#run#0;class#159141:159476" expanded="false" />
+            <element signature="class#159169:159504" expanded="false" />
+            <element signature="method#run#0;class#159169:159504" expanded="false" />
             <element signature="method#bindSearchablesChanged#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindAllApplications#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindAllApplications#0;class#Launcher#0" expanded="false" />
-            <element signature="e#160829#160892#0" expanded="false" />
-            <element signature="e#161200#161269#0" expanded="false" />
-            <element signature="e#161479#161560#0" expanded="false" />
+            <element signature="e#160857#160920#0" expanded="false" />
+            <element signature="e#161228#161297#0" expanded="false" />
+            <element signature="e#161507#161588#0" expanded="false" />
             <element signature="docComment;method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindAppsAdded#0;class#Launcher#0" expanded="false" />
             <element signature="docComment;method#bindAppsUpdated#0;class#Launcher#0" expanded="false" />
@@ -4262,21 +4237,21 @@
             <element signature="docComment;field#mWidgetsAndShortcuts#0;class#Launcher#0" expanded="false" />
             <element signature="method#bindPackagesUpdated#0;class#Launcher#0" expanded="false" />
             <element signature="method#mapConfigurationOriActivityInfoOri#0;class#Launcher#0" expanded="false" />
-            <element signature="e#166217#166308#0" expanded="false" />
+            <element signature="e#166245#166336#0" expanded="false" />
             <element signature="method#isRotationEnabled#0;class#Launcher#0" expanded="false" />
             <element signature="method#lockScreenOrientation#0;class#Launcher#0" expanded="false" />
             <element signature="method#unlockScreenOrientation#0;class#Launcher#0" expanded="false" />
             <element signature="method#isClingsEnabled#0;class#Launcher#0" expanded="false" />
-            <element signature="e#167691#167769#0" expanded="false" />
+            <element signature="e#167719#167797#0" expanded="false" />
             <element signature="method#initCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#dismissCling#0;class#Launcher#0" expanded="false" />
-            <element signature="e#169949#170039#0" expanded="false" />
-            <element signature="class#170620:170929" expanded="false" />
-            <element signature="method#run#0;class#170620:170929" expanded="false" />
+            <element signature="e#169977#170067#0" expanded="false" />
+            <element signature="class#170648:170957" expanded="false" />
+            <element signature="method#run#0;class#170648:170957" expanded="false" />
             <element signature="method#removeCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#skipCustomClingIfNoAccounts#0;class#Launcher#0" expanded="false" />
             <element signature="method#showFirstRunWorkspaceCling#0;class#Launcher#0" expanded="false" />
-            <element signature="e#172312#172387#0" expanded="false" />
+            <element signature="e#172340#172415#0" expanded="false" />
             <element signature="method#showFirstRunAllAppsCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#showFirstRunFoldersCling#0;class#Launcher#0" expanded="false" />
             <element signature="method#isFolderClingVisible#0;class#Launcher#0" expanded="false" />
@@ -4287,7 +4262,7 @@
             <element signature="method#dump#0;class#Launcher#0" expanded="false" />
             <element signature="method#addAppInfo#0;class#Launcher#0" expanded="false" />
             <element signature="method#removeAppInfo#0;class#Launcher#0" expanded="false" />
-            <element signature="e#177612#177672#0" expanded="false" />
+            <element signature="e#177640#177700#0" expanded="false" />
             <element signature="method#onClick#0;class#SortOnClickListener#0;class#Launcher#0" expanded="false" />
             <element signature="class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
             <element signature="method#onSharedPreferenceChanged#0;class#MyPreferenceChangeListener#0;class#Launcher#0" expanded="false" />
@@ -4297,123 +4272,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/folder_icon.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.606414">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="e#1166#1194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="122" column="75" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="75" />
-          <folding>
-            <element signature="docComment;class#FolderIcon#0" expanded="false" />
-            <element signature="method#FolderIcon#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#FolderIcon#1;class#FolderIcon#0" expanded="false" />
-            <element signature="method#isDropEnabled#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onSaveInstanceState#0;class#FolderIcon#0" expanded="false" />
-            <element signature="class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#FolderRingAnimator#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#7270#7352#0" expanded="false" />
-            <element signature="method#animateToAcceptState#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#animateToNaturalState#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#getCell#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#setCell#0;class#FolderRingAnimator#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#willAcceptItem#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#acceptDrop#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onDragEnter#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onDragOver#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#performCreateAnimation#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#13156#13230#0" expanded="false" />
-            <element signature="method#performDestroyAnimation#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#13889#13963#0" expanded="false" />
-            <element signature="method#onDrop#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#14567#14656#0" expanded="false" />
-            <element signature="method#onDrop#1;class#FolderIcon#0" expanded="false" />
-            <element signature="method#computePreviewDrawingParams#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#computePreviewDrawingParams#1;class#FolderIcon#0" expanded="false" />
-            <element signature="class#PreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#PreviewItemDrawingParams#0;class#PreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#getLocalCenterForIndex#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#computePreviewItemDrawingParams#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#20360#20441#0" expanded="false" />
-            <element signature="method#drawPreviewItem#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#dispatchDraw#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#animateFirstItem#0;class#FolderIcon#0" expanded="false" />
-            <element signature="class#24267:24685" expanded="false" />
-            <element signature="method#onAnimationEnd#0;class#24267:24685" expanded="false" />
-            <element signature="method#setTextVisible#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onItemsChanged#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onAdd#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onRemove#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onTitleChanged#0;class#FolderIcon#0" expanded="false" />
-            <element signature="method#onTouchEvent#0;class#FolderIcon#0" expanded="false" />
-            <element signature="e#25644#25728#0" expanded="false" />
-            <element signature="method#cancelLongPress#0;class#FolderIcon#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderScreenLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="95" selection-start-line="39" selection-start-column="95" selection-end-line="39" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/launcher2/FolderGridAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#590#598#0" expanded="true" />
-            <element signature="e#663#673#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1281#1282#0" expanded="true" />
-            <element signature="e#1995#1996#0" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gridview_item.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2058825">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state vertical-scroll-proportion="-2.967742">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/in_layout_2.xml">
+    <entry file="file://$PROJECT_DIR$/app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5248447">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.14420062">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
   </component>

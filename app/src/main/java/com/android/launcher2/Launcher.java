@@ -1994,15 +1994,20 @@ public final class Launcher extends Activity
     }
 
     private void initFolderGrid(){
-        ArrayList<String> mNameList=new ArrayList<>();
-        ArrayList<Drawable> mDrawableList=new ArrayList<>();
+        GridView grid = (GridView) findViewById(R.id.folder_grid);
+
+
+        ArrayList<FolderIcon> fiList=new ArrayList<>();
         for (int i=0;i<=10;i++){
-            mNameList.add(String.valueOf(i));
-            mDrawableList.add(getResources().getDrawable(R.drawable.portal_ring_inner_holo));
+            final FolderInfo folderInfo=new FolderInfo();
+            folderInfo.title=String.valueOf(i);
+            FolderIcon newFolder=FolderIcon.fromXml(R.layout.folder_icon,this,grid,folderInfo,null);
+            fiList.add(newFolder);
+
         }
 
-        GridView grid = (GridView) findViewById(R.id.folder_grid);
-        grid.setAdapter(new FolderGridAdapter(this, mNameList, mDrawableList));
+
+        grid.setAdapter(new FolderGridAdapter(this, fiList));
 
     }
 

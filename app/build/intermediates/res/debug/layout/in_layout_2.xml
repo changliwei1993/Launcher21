@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="210dp"
+        android:background="@drawable/xuexizhenduan_large"/>
+
+
+    <RelativeLayout
+        android:layout_width="420dp"
+        android:layout_height="538dp"
+        android:background="@drawable/homescreen_blue_normal_holo"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="60dp">
+
+        <GridView
+            android:id="@+id/folder_grid"
+            android:layout_width="380dp"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:numColumns="4"
+            android:verticalSpacing="30dp"
+            android:horizontalSpacing="10dp"
+            android:stretchMode="columnWidth"
+            >
+        </GridView>
+
+
+    </RelativeLayout>
+
+
+    <com.android.launcher2.FolderScreenLayout
+        android:id="@+id/folder_screen"
+        android:layout_width="420dp"
+        android:layout_height="538dp"
+        android:background="@drawable/homescreen_blue_normal_holo"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="60dp"
+        android:visibility="gone">
+
+<!--        <ImageView
+            android:id="@+id/folder_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_launcher_info_active_holo"/>-->
+
+
+<!--        <com.android.launcher2.FolderIcon
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:visibility="visible"></com.android.launcher2.FolderIcon>-->
+<!--
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:visibility="gone"
+            android:background="@drawable/xuexizhenduan_up"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/dayijiehuo"/>-->
+    </com.android.launcher2.FolderScreenLayout>
+
+</RelativeLayout><!-- From: file:/home/changliwei1993gmail/AndroidStudioProjects/Launcher21/app/src/main/res/layout/in_layout_2.xml -->

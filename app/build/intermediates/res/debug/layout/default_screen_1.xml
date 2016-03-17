@@ -1,0 +1,23 @@
+<com.android.launcher2.CellLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hapticFeedbackEnabled="false"
+    android:paddingBottom="@dimen/cell_layout_bottom_padding"
+    android:paddingEnd="@dimen/cell_layout_right_padding"
+    android:paddingStart="@dimen/cell_layout_left_padding"
+    android:paddingTop="@dimen/cell_layout_top_padding"
+
+    launcher:cellHeight="@dimen/workspace_cell_height"
+    launcher:cellWidth="@dimen/workspace_cell_width"
+    launcher:heightGap="@dimen/workspace_height_gap"
+    launcher:maxGap="@dimen/workspace_max_gap"
+    launcher:widthGap="@dimen/workspace_width_gap">
+
+    <include android:id="@+id/cellcontents" layout="@layout/in_layout_1" />
+
+</com.android.launcher2.CellLayout>
+
+
+<!-- From: file:/home/changliwei1993gmail/AndroidStudioProjects/Launcher21/app/src/main/res/layout/default_screen_1.xml -->

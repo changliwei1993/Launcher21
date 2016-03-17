@@ -20,15 +20,13 @@ import java.util.ArrayList;
  */
 public class FolderGridAdapter extends BaseAdapter {
 
-    private ArrayList<String> mNameList = new ArrayList<String>();
-    private ArrayList<Drawable> mDrawableList = new ArrayList<Drawable>();
+    private ArrayList<FolderIcon> fiList=new ArrayList<>();
     private LayoutInflater mInflater;
     private Context mContext;
 
 
-    public FolderGridAdapter(Context context, ArrayList<String> nameList, ArrayList<Drawable> drawableList) {
-        mNameList = nameList;
-        mDrawableList = drawableList;
+    public FolderGridAdapter(Context context,ArrayList<FolderIcon> fiList) {
+        this.fiList=fiList;
         mContext = context;
         mInflater = LayoutInflater.from(context);
 
@@ -36,12 +34,12 @@ public class FolderGridAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
-        return mNameList.size();
+        return fiList.size();
     }
 
     @Override
     public Object getItem(int position) {
-        return mNameList.get(position);
+        return fiList.get(position);
     }
 
     @Override
@@ -52,31 +50,9 @@ public class FolderGridAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-        ItemViewTag viewTag;
+        convertView=fiList.get(position);
 
-        if (convertView == null)
-        {
-            convertView = mInflater.inflate(R.layout.gridview_item, null);
-
-            viewTag = new ItemViewTag((ImageView) convertView.findViewById(R.id.grid_icon));
-            convertView.setTag(viewTag);
-        } else
-        {
-            viewTag = (ItemViewTag) convertView.getTag();
-        }
-        // set icon
-        viewTag.mIcon.setBackgroundDrawable(mDrawableList.get(position));
         return convertView;
-    }
-
-    class ItemViewTag
-    {
-        protected ImageView mIcon;
-
-        public ItemViewTag(ImageView icon)
-        {
-            this.mIcon = icon;
-        }
     }
 
 
