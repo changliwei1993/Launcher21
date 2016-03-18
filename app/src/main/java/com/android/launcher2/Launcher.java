@@ -2002,37 +2002,25 @@ public final class Launcher extends Activity
 
     private void initFolderGrid() {
         GridView grid = (GridView) findViewById(R.id.folder_grid);
-
         Intent intent = new Intent(Intent.ACTION_MAIN, null);
         intent.addCategory(Intent.CATEGORY_LAUNCHER);
-
         List<ResolveInfo> mAllApps = getPackageManager().queryIntentActivities(intent, 0);
-        Log.d("mAllAppssize", String.valueOf(mAllApps.size()));
-        for (int i = 0; i < mAllApps.size(); i++) {
-            ResolveInfo p = mAllApps.get(i);
-            Log.d("packageName", p.activityInfo.packageName);
-            Log.d("appname", p.activityInfo.name);
-        }
-
-
         ArrayList<FolderIcon> fiList = new ArrayList<>();
-        for (int i = 0; i <= 10; i++) {
+        int folderIconNum = (mAllApps.size() / 5) + 1;
+        for (int i = 0; i < folderIconNum; i++) {
             final FolderInfo folderInfo = new FolderInfo();
-            folderInfo.title = String.valueOf(i);
+            folderInfo.title = String.valueOf(i + 1);
             FolderIcon newFolder = FolderIcon.fromXml(R.layout.folder_icon, this, grid, folderInfo, null);
-
-            for (int j = 0; j <= 2; j++) {
-                ComponentName cn = new ComponentName(mAllApps.get(0).activityInfo.packageName, mAllApps.get(0).activityInfo.name);
-                intent.setComponent(cn);
-                ShortcutInfo shortcutInfo = mModel.getShortcutInfo(getPackageManager(), intent, android.os.Process.myUserHandle(), this, null, -1, -1, null);
-                newFolder.addItem(shortcutInfo);
+            for (int j = 0; j < 5; j++) {
+                if (i * 5 + j < mAllApps.size()) {
+                    ComponentName cn = new ComponentName(mAllApps.get(i * 5 + j).activityInfo.packageName, mAllApps.get(i * 5 + j).activityInfo.name);
+                    intent.setComponent(cn);
+                    ShortcutInfo shortcutInfo = mModel.getShortcutInfo(getPackageManager(), intent, android.os.Process.myUserHandle(), this, null, -1, -1, null);
+                    newFolder.addItem(shortcutInfo);
+                }
             }
-
             fiList.add(newFolder);
-
         }
-
-
         grid.setAdapter(new FolderGridAdapter(this, fiList));
 
     }
